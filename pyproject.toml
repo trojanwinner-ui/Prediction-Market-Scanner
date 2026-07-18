@@ -1,0 +1,25 @@
+[project]
+name = "prediction-market-scanner"
+version = "0.1.0"
+description = "Arbitrage scanner for prediction markets: Dutch-book detection on Kalshi and cross-platform divergence vs Polymarket, with rigorous friction accounting."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+# Runtime deps (httpx, pydantic, pandas) arrive in Phase 1 when the code that
+# needs them does — Phase 0 keeps the dependency surface at zero.
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+# src/ layout: the package can't be imported from the repo root by accident,
+# so tests exercise the installed package exactly as CI and users would see it.
+[tool.hatch.build.targets.wheel]
+packages = ["src/pm_scanner"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
