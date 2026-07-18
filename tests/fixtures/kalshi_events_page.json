@@ -1,0 +1,91 @@
+{
+  "cursor": "",
+  "events": [
+    {
+      "event_ticker": "KXELONMARS-99",
+      "title": "Will Elon Musk visit Mars in his lifetime?",
+      "sub_title": "Before 2099",
+      "series_ticker": "KXELONMARS",
+      "mutually_exclusive": false,
+      "settlement_sources": [
+        {"name": "The Guardian", "url": "https://www.theguardian.com"},
+        {"name": "Reuters", "url": "https://www.reuters.com"},
+        {"name": "  ", "url": "https://kalshi.com/"}
+      ],
+      "markets": [
+        {
+          "ticker": "KXELONMARS-99",
+          "event_ticker": "KXELONMARS-99",
+          "market_type": "binary",
+          "title": "Will Elon Musk visit Mars before Aug 1, 2099?",
+          "yes_sub_title": "Mars",
+          "no_sub_title": "Mars",
+          "status": "active",
+          "yes_bid_dollars": "0.1200",
+          "yes_ask_dollars": "0.1300",
+          "no_bid_dollars": "0.8700",
+          "no_ask_dollars": "0.8800",
+          "last_price_dollars": "0.1300",
+          "close_time": "2099-08-01T04:59:00Z",
+          "expected_expiration_time": "2099-08-01T15:00:00Z",
+          "rules_primary": "If Elon Musk visits Mars before the earlier of his death or Aug 1, 2099, then the market resolves to Yes."
+        }
+      ]
+    },
+    {
+      "event_ticker": "KXFAKEPARTY-28",
+      "title": "Which party wins the 2028 election?",
+      "series_ticker": "KXFAKEPARTY",
+      "mutually_exclusive": true,
+      "settlement_sources": [],
+      "markets": [
+        {
+          "ticker": "KXFAKEPARTY-28-D",
+          "event_ticker": "KXFAKEPARTY-28",
+          "market_type": "binary",
+          "title": "Will the Democratic candidate win?",
+          "yes_sub_title": "Democrat",
+          "status": "active",
+          "yes_bid_dollars": "0.5500",
+          "yes_ask_dollars": "0.5700",
+          "close_time": "2028-11-08T04:59:00Z",
+          "expected_expiration_time": "2028-11-08T15:00:00Z"
+        },
+        {
+          "ticker": "KXFAKEPARTY-28-R",
+          "event_ticker": "KXFAKEPARTY-28",
+          "market_type": "binary",
+          "title": "Will the Republican candidate win?",
+          "yes_sub_title": "Republican",
+          "status": "active",
+          "yes_bid_dollars": "0.4100",
+          "yes_ask_dollars": "0.4300",
+          "close_time": "2028-11-08T04:59:00Z"
+        },
+        {
+          "ticker": "KXFAKEPARTY-28-O",
+          "event_ticker": "KXFAKEPARTY-28",
+          "market_type": "binary",
+          "title": "Will another candidate win?",
+          "yes_sub_title": "Other",
+          "status": "active",
+          "yes_bid_dollars": "0.0000",
+          "yes_ask_dollars": "0.0000",
+          "no_bid_dollars": "1.0000",
+          "no_ask_dollars": "1.0000",
+          "close_time": "2028-11-08T04:59:00Z",
+          "expected_expiration_time": "2028-11-08T15:00:00Z"
+        },
+        {
+          "ticker": "KXFAKEPARTY-28-MARGIN",
+          "event_ticker": "KXFAKEPARTY-28",
+          "market_type": "scalar",
+          "title": "Winning margin (percentage points)",
+          "yes_bid_dollars": "0.5000",
+          "yes_ask_dollars": "0.5100",
+          "close_time": "2028-11-08T04:59:00Z"
+        }
+      ]
+    }
+  ]
+}

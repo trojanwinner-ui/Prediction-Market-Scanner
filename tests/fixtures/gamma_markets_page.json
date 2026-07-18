@@ -1,0 +1,56 @@
+[
+  {
+    "id": "540817",
+    "question": "New Rihanna Album before GTA VI?",
+    "conditionId": "0x1fad72fae204143ff1c3035e99e7c0f65ea8d5cd9bd1070987bd1a3316f772be",
+    "slug": "new-rhianna-album-before-gta-vi-926",
+    "resolutionSource": "",
+    "endDate": "2026-07-31T12:00:00Z",
+    "description": "This market will resolve to \"Yes\" if Rihanna officially releases a new album before Grand Theft Auto VI is officially released in the US.",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.505\", \"0.495\"]",
+    "active": true,
+    "closed": false,
+    "bestBid": 0.5,
+    "bestAsk": 0.51,
+    "negRisk": false,
+    "clobTokenIds": "[\"98022490269692409998126496127597032490334070080325855126491859374983463996227\", \"53831553061883006530739877284105938919721408776239639687877978808906551086026\"]",
+    "events": [
+      {
+        "id": "23784",
+        "ticker": "what-will-happen-before-gta-vi",
+        "slug": "what-will-happen-before-gta-vi",
+        "title": "What will happen before GTA VI?"
+      }
+    ]
+  },
+  {
+    "id": "600001",
+    "question": "Which medal will Team X win? (synthetic non-binary)",
+    "conditionId": "0xffff000000000000000000000000000000000000000000000000000000000001",
+    "resolutionSource": "",
+    "endDate": "2027-01-01T00:00:00Z",
+    "outcomes": "[\"Gold\", \"Silver\", \"Bronze\"]",
+    "outcomePrices": "[\"0.2\", \"0.3\", \"0.5\"]",
+    "active": true,
+    "closed": false,
+    "bestBid": 0.2,
+    "bestAsk": 0.22,
+    "negRisk": false,
+    "clobTokenIds": "[\"111\", \"222\", \"333\"]"
+  },
+  {
+    "id": "600002",
+    "question": "Standalone market, empty book (synthetic)",
+    "conditionId": "0xffff000000000000000000000000000000000000000000000000000000000002",
+    "resolutionSource": "Associated Press",
+    "endDate": "2027-06-30T12:00:00Z",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0\", \"0\"]",
+    "active": true,
+    "closed": false,
+    "bestBid": 0,
+    "negRisk": true,
+    "clobTokenIds": ""
+  }
+]

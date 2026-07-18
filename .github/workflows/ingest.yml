@@ -1,0 +1,52 @@
+name: Ingest snapshots
+
+on:
+  schedule:
+    # Every 6 hours. Minute 23 rather than :00 because GitHub delays or
+    # drops runs scheduled at congested times.
+    - cron: "23 1,7,13,19 * * *"
+  workflow_dispatch:
+
+# The run commits the updated DB back to the repo.
+permissions:
+  contents: write
+
+# A delayed run must never overlap the next one: both would race to commit
+# the same DB file.
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - run: uv sync --locked
+
+      - run: uv run python -m pm_scanner.ingest --db data/snapshots.db
+
+      # Committing the DB into the repo ("git scraping") keeps the pipeline
+      # dependency-free and the time series public — the point of the
+      # project is the methodology, not scale. If growth becomes a problem,
+      # the escape hatch is a separate data branch or Releases assets.
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshots.db
+          if git diff --cached --quiet; then
+            echo "No new data; nothing to commit."
+            exit 0
+          fi
+          git commit -m "data: price snapshot $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          # A code push may have landed while we ingested; replay our data
+          # commit on top of it. If that still fails, losing one snapshot
+          # is preferable to force-pushing.
+          git pull --rebase origin main
+          git push origin main
