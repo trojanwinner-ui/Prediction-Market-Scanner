@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Snapshot DB lives as a GitHub Release asset, not in the tree
+# (it outgrew GitHub's file-size limits; see CLAUDE.md decisions log)
+data/snapshots.db

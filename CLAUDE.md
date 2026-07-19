@@ -64,8 +64,13 @@ GitHub Pages.
   legacy host 401s). Prices arrive as dollar strings, `"0.0000"` = no quote.
 - Gamma caps `offset` at 2000; full crawls use `/markets/keyset` with
   `after_cursor`.
-- Storage is runs/markets(dimension)/price_snapshots(facts)/signals; ~5 MB
-  per run committed to the repo at 6h cadence (user accepted this rate).
+- Storage is runs/markets(dimension)/price_snapshots(facts)/signals.
+- Data architecture (user decision, 2026-07-19): the DB outgrew GitHub's
+  in-repo file limits (52.86 MB after 2 runs; hard limit 100 MB), so the
+  full SQLite time series lives as a rolling GitHub Release asset (tag
+  `data`), restored/appended/re-uploaded by each ingest run. The repo
+  commits only `data/summary.json` (per-run aggregates + latest-run signal
+  detail with frictions), which is also the Phase 5 dashboard's input.
 - Phase 4 half (2026-07-19): Kalshi fee schedule is quadratic with per-series
   `fee_multiplier` from `/series/{ticker}`, ceil-to-cent per order (not per
   fill level). `orderbook_fp` arrays are resting bids ascending on both
