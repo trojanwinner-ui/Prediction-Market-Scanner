@@ -10,6 +10,7 @@ event object carries exactly the metadata later phases need: the
 asserts are exclusive) and ``settlement_sources`` (Phase 3 raw material).
 """
 
+import time
 from datetime import datetime
 from typing import Any, Iterator
 
@@ -20,6 +21,7 @@ from .models import NormalizedMarket
 
 BASE_URL = "https://api.elections.kalshi.com/trade-api/v2"
 PAGE_LIMIT = 200  # documented maximum for /events
+PAGE_DELAY_SECONDS = 0.1  # stay politely under the public rate limit
 
 
 class KalshiClient:
@@ -42,6 +44,7 @@ class KalshiClient:
             cursor = payload.get("cursor")
             if not cursor:
                 return
+            time.sleep(PAGE_DELAY_SECONDS)
 
     def get_orderbook(self, ticker: str) -> dict[str, Any]:
         """Raw order book for one market (Phase 4 walks this for slippage)."""

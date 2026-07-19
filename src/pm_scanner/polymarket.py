@@ -6,6 +6,7 @@ which Phase 4 walks for slippage).
 """
 
 import json
+import time
 from datetime import datetime
 from typing import Any, Iterator
 
@@ -17,6 +18,10 @@ from .models import NormalizedMarket
 GAMMA_BASE_URL = "https://gamma-api.polymarket.com"
 CLOB_BASE_URL = "https://clob.polymarket.com"
 PAGE_LIMIT = 100
+# A full crawl is ~600 pages; pacing them keeps us under Gamma's per-IP
+# rate limit instead of provoking 429 storms (which shared GitHub-runner
+# IPs otherwise hit reliably).
+PAGE_DELAY_SECONDS = 0.25
 
 
 class GammaClient:
@@ -45,6 +50,7 @@ class GammaClient:
             cursor = payload.get("next_cursor")
             if not cursor or not markets:
                 return
+            time.sleep(PAGE_DELAY_SECONDS)
 
 
 class ClobClient:

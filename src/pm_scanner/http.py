@@ -9,8 +9,12 @@ import httpx
 # covers transient upstream failures that a scheduled scraper should ride out
 # rather than fail the whole run.
 TRANSIENT_STATUSES = {429, 500, 502, 503, 504}
-MAX_RETRIES = 5
+# Eight capped-exponential attempts give a ~4-minute worst-case budget:
+# GitHub-runner IPs are shared and get rate-limited hard, and riding out a
+# sustained 429 beats failing a whole scheduled crawl.
+MAX_RETRIES = 8
 BASE_DELAY_SECONDS = 1.0
+MAX_DELAY_SECONDS = 60.0
 
 
 def get_json(
@@ -44,4 +48,4 @@ def _retry_delay(retry_after: str | None, attempt: int) -> float:
             # Retry-After can also be an HTTP-date; not worth parsing for a
             # scraper — exponential backoff below is a fine substitute.
             pass
-    return BASE_DELAY_SECONDS * (2**attempt)
+    return min(BASE_DELAY_SECONDS * (2**attempt), MAX_DELAY_SECONDS)
