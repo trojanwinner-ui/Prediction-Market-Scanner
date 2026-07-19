@@ -1,6 +1,6 @@
 """Read-only clients and mapper for Polymarket.
 
-Two services: the Gamma API (market/event metadata plus top-of-book, offset
+Two services: the Gamma API (market/event metadata plus top-of-book, keyset
 pagination) and the CLOB API (full order-book depth per outcome token,
 which Phase 4 walks for slippage).
 """
@@ -24,29 +24,27 @@ class GammaClient:
         self._client = client or httpx.Client(base_url=GAMMA_BASE_URL, timeout=30.0)
 
     def iter_markets(self) -> Iterator[dict[str, Any]]:
-        """Yield raw active-market dicts, following offset pagination.
+        """Yield raw active-market dicts via keyset pagination.
 
-        Ordered by id so new listings appearing mid-crawl shift results as
-        little as possible (Gamma has no cursor API to do better).
+        Plain /markets rejects offsets beyond 2000 with a 422 pointing at
+        /markets/keyset, so a full crawl must use the keyset endpoint and
+        its opaque after_cursor instead of offsets.
         """
-        offset = 0
+        cursor: str | None = None
         while True:
-            batch = get_json(
-                self._client,
-                "/markets",
-                params={
-                    "limit": PAGE_LIMIT,
-                    "offset": offset,
-                    "active": "true",
-                    "closed": "false",
-                    "order": "id",
-                    "ascending": "true",
-                },
-            )
-            yield from batch
-            if len(batch) < PAGE_LIMIT:
+            params: dict[str, Any] = {
+                "limit": PAGE_LIMIT,
+                "active": "true",
+                "closed": "false",
+            }
+            if cursor:
+                params["after_cursor"] = cursor
+            payload = get_json(self._client, "/markets/keyset", params=params)
+            markets = payload.get("markets") or []
+            yield from markets
+            cursor = payload.get("next_cursor")
+            if not cursor or not markets:
                 return
-            offset += PAGE_LIMIT
 
 
 class ClobClient:
