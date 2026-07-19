@@ -57,3 +57,18 @@ GitHub Pages.
   the order book for a target size, gross→net waterfall per pair.
 - **Phase 5 — Static HTML dashboard** on GitHub Pages via Actions, plus README
   methodology.
+
+## Decisions log
+
+- Kalshi public host is `api.elections.kalshi.com` (serves all markets; the
+  legacy host 401s). Prices arrive as dollar strings, `"0.0000"` = no quote.
+- Gamma caps `offset` at 2000; full crawls use `/markets/keyset` with
+  `after_cursor`.
+- Storage is runs/markets(dimension)/price_snapshots(facts)/signals; ~5 MB
+  per run committed to the repo at 6h cadence (user accepted this rate).
+- Phase 2 (user decisions, 2026-07-18): long side flagged
+  `exhaustiveness_verified=false` (APIs assert exclusivity, never
+  exhaustiveness); short side needs exclusivity only and may use a quoted
+  subset; fees = gross plus Kalshi 0.07·P·(1−P) approximation (Phase 4
+  replaces it); annualization is simple r·365/days to the latest leg date;
+  detector scope is Kalshi only.

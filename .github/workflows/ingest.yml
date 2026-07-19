@@ -31,6 +31,10 @@ jobs:
 
       - run: uv run python -m pm_scanner.ingest --db data/snapshots.db
 
+      # Detect Dutch books in the snapshot we just took; signals land in
+      # the same DB and ride along in the data commit below.
+      - run: uv run python -m pm_scanner.dutchbook --db data/snapshots.db
+
       # Committing the DB into the repo ("git scraping") keeps the pipeline
       # dependency-free and the time series public — the point of the
       # project is the methodology, not scale. If growth becomes a problem,
