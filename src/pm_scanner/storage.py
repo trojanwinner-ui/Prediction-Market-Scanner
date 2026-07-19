@@ -69,6 +69,18 @@ CREATE TABLE IF NOT EXISTS signals (
     exhaustiveness_verified INTEGER
 );
 CREATE INDEX IF NOT EXISTS idx_signals_run ON signals (run_id);
+CREATE TABLE IF NOT EXISTS signal_frictions (
+    id INTEGER PRIMARY KEY,
+    signal_id INTEGER NOT NULL REFERENCES signals(id),
+    checked_at TEXT NOT NULL,                -- books are fetched live, hours
+    contracts_requested REAL NOT NULL,       -- after the snapshot; this
+    contracts_filled REAL NOT NULL,          -- timestamp keeps that honest
+    snapshot_gross_per_contract REAL NOT NULL,
+    walked_gross_total REAL,                 -- NULL = set unfillable
+    fees_total REAL,
+    slippage_total REAL,
+    net_total REAL
+);
 """
 
 UPSERT_MARKET = """

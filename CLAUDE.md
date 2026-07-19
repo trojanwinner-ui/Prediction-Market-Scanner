@@ -66,6 +66,13 @@ GitHub Pages.
   `after_cursor`.
 - Storage is runs/markets(dimension)/price_snapshots(facts)/signals; ~5 MB
   per run committed to the repo at 6h cadence (user accepted this rate).
+- Phase 4 half (2026-07-19): Kalshi fee schedule is quadratic with per-series
+  `fee_multiplier` from `/series/{ticker}`, ceil-to-cent per order (not per
+  fill level). `orderbook_fp` arrays are resting bids ascending on both
+  sides; the YES ask ladder = complemented reversed NO bids. Friction
+  deep-check (`pm_scanner.frictions`) is manual-run, not scheduled — live
+  books vs. hours-old snapshots is a deliberate, documented mismatch. The
+  per-pair waterfall waits for the user's verified pairs.
 - Phase 2 (user decisions, 2026-07-18): long side flagged
   `exhaustiveness_verified=false` (APIs assert exclusivity, never
   exhaustiveness); short side needs exclusivity only and may use a quoted
