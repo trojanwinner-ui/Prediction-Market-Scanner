@@ -1,2041 +1,26 @@
 {
- "generated_at": "2026-09-03T12:23:23.034454+00:00",
+ "generated_at": "2026-09-03T21:55:58.644063+00:00",
  "runs": [
   {
    "run_id": 1,
-   "fetched_at": "2026-07-19T00:03:56.698364+00:00",
+   "fetched_at": "2026-09-03T21:46:01.133888+00:00",
    "markets": {
-    "kalshi": 70014,
-    "polymarket": 56932
-   },
-   "signals": {
-    "long": 72,
-    "short": 53
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 2,
-   "fetched_at": "2026-07-19T23:00:16.151368+00:00",
-   "markets": {
-    "kalshi": 66282,
-    "polymarket": 62485
-   },
-   "signals": {
-    "long": 63,
-    "short": 48
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 3,
-   "fetched_at": "2026-07-19T23:27:03.760342+00:00",
-   "markets": {
-    "kalshi": 66776,
-    "polymarket": 62504
-   },
-   "signals": {
-    "long": 63,
-    "short": 46
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 4,
-   "fetched_at": "2026-07-20T11:30:41.370859+00:00",
-   "markets": {
-    "kalshi": 67229,
-    "polymarket": 63338
-   },
-   "signals": {
-    "long": 68,
-    "short": 74
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 5,
-   "fetched_at": "2026-07-20T19:16:40.648281+00:00",
-   "markets": {
-    "kalshi": 65305,
-    "polymarket": 65437
-   },
-   "signals": {
-    "long": 78,
-    "short": 64
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 6,
-   "fetched_at": "2026-07-20T22:40:36.921822+00:00",
-   "markets": {
-    "kalshi": 74363,
-    "polymarket": 65619
+    "kalshi": 117896,
+    "polymarket": 188950
    },
    "signals": {
     "long": 69,
-    "short": 77
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 7,
-   "fetched_at": "2026-07-21T10:09:27.603426+00:00",
-   "markets": {
-    "kalshi": 71579,
-    "polymarket": 69188
-   },
-   "signals": {
-    "long": 67,
-    "short": 60
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 8,
-   "fetched_at": "2026-07-21T18:00:03.351866+00:00",
-   "markets": {
-    "kalshi": 69359,
-    "polymarket": 69006
-   },
-   "signals": {
-    "long": 75,
-    "short": 63
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 9,
-   "fetched_at": "2026-07-21T22:34:30.330228+00:00",
-   "markets": {
-    "kalshi": 75836,
-    "polymarket": 67661
-   },
-   "signals": {
-    "long": 68,
-    "short": 54
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 10,
-   "fetched_at": "2026-07-22T10:08:57.081782+00:00",
-   "markets": {
-    "kalshi": 77048,
-    "polymarket": 68962
-   },
-   "signals": {
-    "long": 67,
-    "short": 63
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 11,
-   "fetched_at": "2026-07-22T17:52:10.054070+00:00",
-   "markets": {
-    "kalshi": 77195,
-    "polymarket": 68403
-   },
-   "signals": {
-    "long": 62,
-    "short": 59
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 12,
-   "fetched_at": "2026-07-22T22:44:57.764617+00:00",
-   "markets": {
-    "kalshi": 78381,
-    "polymarket": 71560
-   },
-   "signals": {
-    "long": 71,
-    "short": 52
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 13,
-   "fetched_at": "2026-07-23T10:07:18.196647+00:00",
-   "markets": {
-    "kalshi": 76252,
-    "polymarket": 77931
-   },
-   "signals": {
-    "long": 61,
-    "short": 65
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 14,
-   "fetched_at": "2026-07-23T18:02:35.718380+00:00",
-   "markets": {
-    "kalshi": 73270,
-    "polymarket": 88157
-   },
-   "signals": {
-    "long": 73,
-    "short": 62
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 15,
-   "fetched_at": "2026-07-23T22:38:47.610513+00:00",
-   "markets": {
-    "kalshi": 72761,
-    "polymarket": 87135
-   },
-   "signals": {
-    "long": 76,
-    "short": 55
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 16,
-   "fetched_at": "2026-07-24T10:00:33.386567+00:00",
-   "markets": {
-    "kalshi": 72624,
-    "polymarket": 87063
-   },
-   "signals": {
-    "long": 70,
-    "short": 60
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 17,
-   "fetched_at": "2026-07-24T18:07:06.901786+00:00",
-   "markets": {
-    "kalshi": 70175,
-    "polymarket": 90940
-   },
-   "signals": {
-    "long": 83,
-    "short": 76
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 18,
-   "fetched_at": "2026-07-24T22:46:20.753025+00:00",
-   "markets": {
-    "kalshi": 76693,
-    "polymarket": 90380
-   },
-   "signals": {
-    "long": 65,
-    "short": 65
-   },
-   "short_fee_survivors": 4
-  },
-  {
-   "run_id": 19,
-   "fetched_at": "2026-07-25T09:08:33.392244+00:00",
-   "markets": {
-    "kalshi": 72650,
-    "polymarket": 90596
-   },
-   "signals": {
-    "long": 81,
-    "short": 69
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 20,
-   "fetched_at": "2026-07-25T16:29:37.312801+00:00",
-   "markets": {
-    "kalshi": 71441,
-    "polymarket": 89422
-   },
-   "signals": {
-    "long": 69,
-    "short": 55
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 21,
-   "fetched_at": "2026-07-25T22:37:46.595918+00:00",
-   "markets": {
-    "kalshi": 73400,
-    "polymarket": 85773
-   },
-   "signals": {
-    "long": 68,
-    "short": 60
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 22,
-   "fetched_at": "2026-07-26T09:28:39.273874+00:00",
-   "markets": {
-    "kalshi": 67629,
-    "polymarket": 82421
-   },
-   "signals": {
-    "long": 84,
-    "short": 70
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 23,
-   "fetched_at": "2026-07-26T16:33:48.854994+00:00",
-   "markets": {
-    "kalshi": 68656,
-    "polymarket": 80416
-   },
-   "signals": {
-    "long": 71,
-    "short": 50
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 24,
-   "fetched_at": "2026-07-26T22:44:38.262129+00:00",
-   "markets": {
-    "kalshi": 64324,
-    "polymarket": 80485
-   },
-   "signals": {
-    "long": 68,
-    "short": 72
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 25,
-   "fetched_at": "2026-07-27T12:45:49.118876+00:00",
-   "markets": {
-    "kalshi": 68673,
-    "polymarket": 75563
-   },
-   "signals": {
-    "long": 80,
-    "short": 72
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 26,
-   "fetched_at": "2026-07-27T18:52:50.448286+00:00",
-   "markets": {
-    "kalshi": 67826,
-    "polymarket": 75644
-   },
-   "signals": {
-    "long": 82,
-    "short": 67
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 27,
-   "fetched_at": "2026-07-27T22:44:39.228519+00:00",
-   "markets": {
-    "kalshi": 73456,
-    "polymarket": 80763
-   },
-   "signals": {
-    "long": 85,
-    "short": 69
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 28,
-   "fetched_at": "2026-07-28T10:47:08.657398+00:00",
-   "markets": {
-    "kalshi": 72932,
-    "polymarket": 88308
-   },
-   "signals": {
-    "long": 73,
-    "short": 77
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 29,
-   "fetched_at": "2026-07-28T18:04:36.209279+00:00",
-   "markets": {
-    "kalshi": 71085,
-    "polymarket": 100646
-   },
-   "signals": {
-    "long": 84,
-    "short": 73
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 30,
-   "fetched_at": "2026-07-28T22:44:17.168338+00:00",
-   "markets": {
-    "kalshi": 75723,
-    "polymarket": 118398
-   },
-   "signals": {
-    "long": 84,
-    "short": 79
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 31,
-   "fetched_at": "2026-07-29T11:05:48.757435+00:00",
-   "markets": {
-    "kalshi": 76817,
-    "polymarket": 118822
-   },
-   "signals": {
-    "long": 96,
-    "short": 85
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 32,
-   "fetched_at": "2026-07-29T17:52:34.088744+00:00",
-   "markets": {
-    "kalshi": 76691,
-    "polymarket": 119383
-   },
-   "signals": {
-    "long": 84,
-    "short": 67
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 33,
-   "fetched_at": "2026-07-29T22:42:42.487227+00:00",
-   "markets": {
-    "kalshi": 77947,
-    "polymarket": 118940
-   },
-   "signals": {
-    "long": 89,
-    "short": 87
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 34,
-   "fetched_at": "2026-07-30T10:06:08.913836+00:00",
-   "markets": {
-    "kalshi": 74933,
-    "polymarket": 118400
-   },
-   "signals": {
-    "long": 67,
-    "short": 59
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 35,
-   "fetched_at": "2026-07-30T18:05:02.312654+00:00",
-   "markets": {
-    "kalshi": 75016,
-    "polymarket": 119547
-   },
-   "signals": {
-    "long": 78,
-    "short": 60
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 36,
-   "fetched_at": "2026-07-30T23:18:33.161338+00:00",
-   "markets": {
-    "kalshi": 75408,
-    "polymarket": 119711
-   },
-   "signals": {
-    "long": 79,
-    "short": 77
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 37,
-   "fetched_at": "2026-07-31T11:10:11.102339+00:00",
-   "markets": {
-    "kalshi": 74568,
-    "polymarket": 117850
-   },
-   "signals": {
-    "long": 83,
-    "short": 64
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 38,
-   "fetched_at": "2026-07-31T18:48:16.912984+00:00",
-   "markets": {
-    "kalshi": 73100,
-    "polymarket": 115533
-   },
-   "signals": {
-    "long": 90,
-    "short": 70
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 39,
-   "fetched_at": "2026-07-31T22:44:30.064212+00:00",
-   "markets": {
-    "kalshi": 77993,
-    "polymarket": 118082
-   },
-   "signals": {
-    "long": 94,
-    "short": 66
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 40,
-   "fetched_at": "2026-08-01T09:27:26.389512+00:00",
-   "markets": {
-    "kalshi": 74182,
-    "polymarket": 120531
-   },
-   "signals": {
-    "long": 89,
-    "short": 87
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 41,
-   "fetched_at": "2026-08-01T16:37:48.692097+00:00",
-   "markets": {
-    "kalshi": 74965,
-    "polymarket": 122292
-   },
-   "signals": {
-    "long": 99,
-    "short": 74
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 42,
-   "fetched_at": "2026-08-01T22:47:30.029977+00:00",
-   "markets": {
-    "kalshi": 77067,
-    "polymarket": 123068
-   },
-   "signals": {
-    "long": 85,
-    "short": 86
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 43,
-   "fetched_at": "2026-08-02T09:25:02.699897+00:00",
-   "markets": {
-    "kalshi": 73635,
-    "polymarket": 122004
-   },
-   "signals": {
-    "long": 90,
-    "short": 71
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 44,
-   "fetched_at": "2026-08-02T16:36:55.684373+00:00",
-   "markets": {
-    "kalshi": 76166,
-    "polymarket": 122004
-   },
-   "signals": {
-    "long": 84,
-    "short": 74
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 45,
-   "fetched_at": "2026-08-02T22:40:14.360278+00:00",
-   "markets": {
-    "kalshi": 72760,
-    "polymarket": 119465
-   },
-   "signals": {
-    "long": 80,
-    "short": 68
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 46,
-   "fetched_at": "2026-08-03T12:46:29.055229+00:00",
-   "markets": {
-    "kalshi": 72099,
-    "polymarket": 115028
-   },
-   "signals": {
-    "long": 88,
-    "short": 73
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 47,
-   "fetched_at": "2026-08-03T19:09:26.148089+00:00",
-   "markets": {
-    "kalshi": 72333,
-    "polymarket": 127544
-   },
-   "signals": {
-    "long": 93,
-    "short": 67
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 48,
-   "fetched_at": "2026-08-03T22:43:17.511928+00:00",
-   "markets": {
-    "kalshi": 78370,
-    "polymarket": 126363
-   },
-   "signals": {
-    "long": 92,
-    "short": 77
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 49,
-   "fetched_at": "2026-08-04T11:06:24.584642+00:00",
-   "markets": {
-    "kalshi": 79283,
-    "polymarket": 131729
-   },
-   "signals": {
-    "long": 109,
-    "short": 67
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 50,
-   "fetched_at": "2026-08-04T19:11:35.378169+00:00",
-   "markets": {
-    "kalshi": 77280,
-    "polymarket": 135019
-   },
-   "signals": {
-    "long": 123,
-    "short": 74
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 51,
-   "fetched_at": "2026-08-04T22:48:53.503587+00:00",
-   "markets": {
-    "kalshi": 84380,
-    "polymarket": 135185
-   },
-   "signals": {
-    "long": 127,
-    "short": 69
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 52,
-   "fetched_at": "2026-08-05T11:01:26.364506+00:00",
-   "markets": {
-    "kalshi": 80741,
-    "polymarket": 136849
-   },
-   "signals": {
-    "long": 103,
-    "short": 61
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 53,
-   "fetched_at": "2026-08-05T19:04:48.185885+00:00",
-   "markets": {
-    "kalshi": 79282,
-    "polymarket": 137005
-   },
-   "signals": {
-    "long": 87,
-    "short": 59
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 54,
-   "fetched_at": "2026-08-05T22:44:51.213967+00:00",
-   "markets": {
-    "kalshi": 83479,
-    "polymarket": 137015
-   },
-   "signals": {
-    "long": 94,
-    "short": 71
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 55,
-   "fetched_at": "2026-08-06T11:03:23.214813+00:00",
-   "markets": {
-    "kalshi": 79836,
-    "polymarket": 135646
-   },
-   "signals": {
-    "long": 89,
-    "short": 53
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 56,
-   "fetched_at": "2026-08-07T04:31:54.607614+00:00",
-   "markets": {
-    "kalshi": 77360,
-    "polymarket": 136868
-   },
-   "signals": {
-    "long": 100,
-    "short": 64
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 57,
-   "fetched_at": "2026-08-07T10:30:51.400901+00:00",
-   "markets": {
-    "kalshi": 78200,
-    "polymarket": 136635
-   },
-   "signals": {
-    "long": 107,
-    "short": 59
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 58,
-   "fetched_at": "2026-08-07T16:14:16.594935+00:00",
-   "markets": {
-    "kalshi": 77610,
-    "polymarket": 135889
-   },
-   "signals": {
-    "long": 108,
-    "short": 61
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 59,
-   "fetched_at": "2026-08-07T21:23:14.374001+00:00",
-   "markets": {
-    "kalshi": 84046,
-    "polymarket": 138350
-   },
-   "signals": {
-    "long": 103,
-    "short": 64
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 60,
-   "fetched_at": "2026-08-08T04:40:01.998827+00:00",
-   "markets": {
-    "kalshi": 80541,
-    "polymarket": 137096
-   },
-   "signals": {
-    "long": 96,
-    "short": 82
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 61,
-   "fetched_at": "2026-08-08T09:22:19.480591+00:00",
-   "markets": {
-    "kalshi": 80248,
-    "polymarket": 136844
-   },
-   "signals": {
-    "long": 89,
-    "short": 68
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 62,
-   "fetched_at": "2026-08-08T14:58:59.829460+00:00",
-   "markets": {
-    "kalshi": 79845,
-    "polymarket": 135905
-   },
-   "signals": {
-    "long": 97,
-    "short": 69
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 63,
-   "fetched_at": "2026-08-08T21:00:13.544124+00:00",
-   "markets": {
-    "kalshi": 82654,
-    "polymarket": 133683
-   },
-   "signals": {
-    "long": 108,
-    "short": 72
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 64,
-   "fetched_at": "2026-08-09T05:18:50.909054+00:00",
-   "markets": {
-    "kalshi": 77950,
-    "polymarket": 129381
-   },
-   "signals": {
-    "long": 93,
-    "short": 67
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 65,
-   "fetched_at": "2026-08-09T09:24:14.972496+00:00",
-   "markets": {
-    "kalshi": 78202,
-    "polymarket": 130914
-   },
-   "signals": {
-    "long": 97,
-    "short": 62
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 66,
-   "fetched_at": "2026-08-09T15:03:29.633042+00:00",
-   "markets": {
-    "kalshi": 78509,
-    "polymarket": 133590
-   },
-   "signals": {
-    "long": 105,
-    "short": 48
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 67,
-   "fetched_at": "2026-08-09T21:04:36.115803+00:00",
-   "markets": {
-    "kalshi": 78974,
-    "polymarket": 143468
-   },
-   "signals": {
-    "long": 106,
-    "short": 63
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 68,
-   "fetched_at": "2026-08-10T06:02:50.427327+00:00",
-   "markets": {
-    "kalshi": 76177,
-    "polymarket": 138766
-   },
-   "signals": {
-    "long": 97,
-    "short": 51
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 69,
-   "fetched_at": "2026-08-10T11:28:35.640247+00:00",
-   "markets": {
-    "kalshi": 76458,
-    "polymarket": 137370
-   },
-   "signals": {
-    "long": 94,
-    "short": 57
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 70,
-   "fetched_at": "2026-08-10T16:13:30.969407+00:00",
-   "markets": {
-    "kalshi": 75821,
-    "polymarket": 143674
-   },
-   "signals": {
-    "long": 102,
-    "short": 58
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 71,
-   "fetched_at": "2026-08-10T21:27:31.359299+00:00",
-   "markets": {
-    "kalshi": 81322,
-    "polymarket": 146415
-   },
-   "signals": {
-    "long": 95,
-    "short": 68
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 72,
-   "fetched_at": "2026-08-11T05:35:14.048917+00:00",
-   "markets": {
-    "kalshi": 81844,
-    "polymarket": 146263
-   },
-   "signals": {
-    "long": 113,
-    "short": 64
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 73,
-   "fetched_at": "2026-08-11T10:28:37.549551+00:00",
-   "markets": {
-    "kalshi": 82105,
-    "polymarket": 146827
-   },
-   "signals": {
-    "long": 108,
-    "short": 62
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 74,
-   "fetched_at": "2026-08-11T16:30:10.958444+00:00",
-   "markets": {
-    "kalshi": 81268,
-    "polymarket": 150125
-   },
-   "signals": {
-    "long": 89,
-    "short": 51
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 75,
-   "fetched_at": "2026-08-11T22:09:07.099229+00:00",
-   "markets": {
-    "kalshi": 87417,
-    "polymarket": 154238
-   },
-   "signals": {
-    "long": 93,
-    "short": 54
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 76,
-   "fetched_at": "2026-08-12T06:06:16.907377+00:00",
-   "markets": {
-    "kalshi": 84221,
-    "polymarket": 155732
-   },
-   "signals": {
-    "long": 70,
-    "short": 58
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 77,
-   "fetched_at": "2026-08-12T10:45:33.984285+00:00",
-   "markets": {
-    "kalshi": 84783,
-    "polymarket": 154580
-   },
-   "signals": {
-    "long": 65,
-    "short": 50
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 78,
-   "fetched_at": "2026-08-12T16:32:58.252295+00:00",
-   "markets": {
-    "kalshi": 84288,
-    "polymarket": 154639
-   },
-   "signals": {
-    "long": 108,
-    "short": 56
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 79,
-   "fetched_at": "2026-08-12T21:31:30.406415+00:00",
-   "markets": {
-    "kalshi": 88422,
-    "polymarket": 159776
-   },
-   "signals": {
-    "long": 93,
-    "short": 58
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 80,
-   "fetched_at": "2026-08-13T06:08:27.018977+00:00",
-   "markets": {
-    "kalshi": 82232,
-    "polymarket": 158802
-   },
-   "signals": {
-    "long": 96,
-    "short": 81
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 81,
-   "fetched_at": "2026-08-13T10:46:49.966802+00:00",
-   "markets": {
-    "kalshi": 84520,
-    "polymarket": 159290
-   },
-   "signals": {
-    "long": 86,
-    "short": 65
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 82,
-   "fetched_at": "2026-08-13T16:31:07.488207+00:00",
-   "markets": {
-    "kalshi": 84452,
-    "polymarket": 158024
-   },
-   "signals": {
-    "long": 100,
-    "short": 69
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 83,
-   "fetched_at": "2026-08-13T22:06:52.962051+00:00",
-   "markets": {
-    "kalshi": 83849,
-    "polymarket": 160415
-   },
-   "signals": {
-    "long": 106,
-    "short": 71
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 84,
-   "fetched_at": "2026-08-14T06:05:59.267247+00:00",
-   "markets": {
-    "kalshi": 83069,
-    "polymarket": 159233
-   },
-   "signals": {
-    "long": 87,
-    "short": 57
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 85,
-   "fetched_at": "2026-08-14T10:41:37.177764+00:00",
-   "markets": {
-    "kalshi": 83867,
-    "polymarket": 158827
-   },
-   "signals": {
-    "long": 95,
-    "short": 55
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 86,
-   "fetched_at": "2026-08-14T16:09:49.253215+00:00",
-   "markets": {
-    "kalshi": 84302,
-    "polymarket": 159163
-   },
-   "signals": {
-    "long": 96,
-    "short": 59
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 87,
-   "fetched_at": "2026-08-14T20:51:32.309143+00:00",
-   "markets": {
-    "kalshi": 87613,
-    "polymarket": 161445
-   },
-   "signals": {
-    "long": 98,
-    "short": 57
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 88,
-   "fetched_at": "2026-08-15T03:25:36.308576+00:00",
-   "markets": {
-    "kalshi": 87506,
-    "polymarket": 158414
-   },
-   "signals": {
-    "long": 82,
-    "short": 62
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 89,
-   "fetched_at": "2026-08-15T08:01:07.607321+00:00",
-   "markets": {
-    "kalshi": 85663,
-    "polymarket": 159782
-   },
-   "signals": {
-    "long": 87,
-    "short": 58
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 90,
-   "fetched_at": "2026-08-15T14:00:01.200693+00:00",
-   "markets": {
-    "kalshi": 85967,
-    "polymarket": 159956
-   },
-   "signals": {
-    "long": 86,
-    "short": 54
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 91,
-   "fetched_at": "2026-08-15T19:53:59.885288+00:00",
-   "markets": {
-    "kalshi": 87181,
-    "polymarket": 158511
-   },
-   "signals": {
-    "long": 103,
-    "short": 69
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 92,
-   "fetched_at": "2026-08-16T04:02:02.547524+00:00",
-   "markets": {
-    "kalshi": 81999,
-    "polymarket": 153585
-   },
-   "signals": {
-    "long": 86,
-    "short": 56
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 93,
-   "fetched_at": "2026-08-16T08:02:46.506888+00:00",
-   "markets": {
-    "kalshi": 81167,
-    "polymarket": 154298
-   },
-   "signals": {
-    "long": 88,
-    "short": 47
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 94,
-   "fetched_at": "2026-08-16T14:02:10.558398+00:00",
-   "markets": {
-    "kalshi": 81162,
-    "polymarket": 157908
-   },
-   "signals": {
-    "long": 83,
-    "short": 50
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 95,
-   "fetched_at": "2026-08-16T19:51:25.460511+00:00",
-   "markets": {
-    "kalshi": 83517,
-    "polymarket": 161369
-   },
-   "signals": {
-    "long": 87,
-    "short": 67
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 96,
-   "fetched_at": "2026-08-17T04:07:50.113736+00:00",
-   "markets": {
-    "kalshi": 78470,
-    "polymarket": 157556
-   },
-   "signals": {
-    "long": 84,
-    "short": 72
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 97,
-   "fetched_at": "2026-08-17T09:25:49.251609+00:00",
-   "markets": {
-    "kalshi": 78471,
-    "polymarket": 158330
-   },
-   "signals": {
-    "long": 99,
-    "short": 76
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 98,
-   "fetched_at": "2026-08-17T14:50:44.151207+00:00",
-   "markets": {
-    "kalshi": 79238,
-    "polymarket": 161154
-   },
-   "signals": {
-    "long": 92,
-    "short": 68
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 99,
-   "fetched_at": "2026-08-17T20:02:30.459253+00:00",
-   "markets": {
-    "kalshi": 79217,
-    "polymarket": 168776
-   },
-   "signals": {
-    "long": 87,
-    "short": 51
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 100,
-   "fetched_at": "2026-08-18T03:58:14.033306+00:00",
-   "markets": {
-    "kalshi": 84953,
-    "polymarket": 168164
-   },
-   "signals": {
-    "long": 84,
-    "short": 60
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 101,
-   "fetched_at": "2026-08-18T07:58:13.933762+00:00",
-   "markets": {
-    "kalshi": 84944,
-    "polymarket": 169996
-   },
-   "signals": {
-    "long": 85,
-    "short": 65
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 102,
-   "fetched_at": "2026-08-18T19:45:39.535235+00:00",
-   "markets": {
-    "kalshi": 90180,
-    "polymarket": 175915
-   },
-   "signals": {
-    "long": 99,
-    "short": 65
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 103,
-   "fetched_at": "2026-08-19T02:33:42.900056+00:00",
-   "markets": {
-    "kalshi": 96037,
-    "polymarket": 175098
-   },
-   "signals": {
-    "long": 92,
-    "short": 74
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 104,
-   "fetched_at": "2026-08-19T07:58:40.082666+00:00",
-   "markets": {
-    "kalshi": 94516,
-    "polymarket": 174761
-   },
-   "signals": {
-    "long": 89,
-    "short": 58
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 105,
-   "fetched_at": "2026-08-19T14:02:47.248946+00:00",
-   "markets": {
-    "kalshi": 94707,
-    "polymarket": 175758
-   },
-   "signals": {
-    "long": 80,
-    "short": 62
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 106,
-   "fetched_at": "2026-08-19T19:45:25.387941+00:00",
-   "markets": {
-    "kalshi": 93747,
-    "polymarket": 177403
-   },
-   "signals": {
-    "long": 90,
-    "short": 59
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 107,
-   "fetched_at": "2026-08-20T02:32:43.260322+00:00",
-   "markets": {
-    "kalshi": 96519,
-    "polymarket": 176914
-   },
-   "signals": {
-    "long": 104,
-    "short": 67
-   },
-   "short_fee_survivors": 4
-  },
-  {
-   "run_id": 108,
-   "fetched_at": "2026-08-20T08:01:36.442449+00:00",
-   "markets": {
-    "kalshi": 91931,
-    "polymarket": 175719
-   },
-   "signals": {
-    "long": 44,
-    "short": 39
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 109,
-   "fetched_at": "2026-08-20T14:04:52.235145+00:00",
-   "markets": {
-    "kalshi": 94899,
-    "polymarket": 177960
-   },
-   "signals": {
-    "long": 97,
-    "short": 58
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 110,
-   "fetched_at": "2026-08-20T19:50:40.630487+00:00",
-   "markets": {
-    "kalshi": 94988,
-    "polymarket": 179294
-   },
-   "signals": {
-    "long": 83,
-    "short": 61
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 111,
-   "fetched_at": "2026-08-21T02:38:52.003123+00:00",
-   "markets": {
-    "kalshi": 97461,
-    "polymarket": 176060
-   },
-   "signals": {
-    "long": 83,
-    "short": 69
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 112,
-   "fetched_at": "2026-08-21T08:02:25.839302+00:00",
-   "markets": {
-    "kalshi": 96171,
-    "polymarket": 177067
-   },
-   "signals": {
-    "long": 88,
-    "short": 76
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 113,
-   "fetched_at": "2026-08-21T14:03:30.686276+00:00",
-   "markets": {
-    "kalshi": 97522,
-    "polymarket": 176800
-   },
-   "signals": {
-    "long": 89,
-    "short": 78
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 114,
-   "fetched_at": "2026-08-21T19:47:03.775311+00:00",
-   "markets": {
-    "kalshi": 103659,
-    "polymarket": 175918
-   },
-   "signals": {
-    "long": 99,
-    "short": 72
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 115,
-   "fetched_at": "2026-08-22T02:30:05.980675+00:00",
-   "markets": {
-    "kalshi": 109589,
-    "polymarket": 173351
-   },
-   "signals": {
-    "long": 94,
-    "short": 83
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 116,
-   "fetched_at": "2026-08-22T07:50:24.644204+00:00",
-   "markets": {
-    "kalshi": 105842,
-    "polymarket": 172727
-   },
-   "signals": {
-    "long": 98,
-    "short": 87
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 117,
-   "fetched_at": "2026-08-22T13:48:35.396296+00:00",
-   "markets": {
-    "kalshi": 105816,
-    "polymarket": 171537
-   },
-   "signals": {
-    "long": 96,
-    "short": 88
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 118,
-   "fetched_at": "2026-08-22T19:42:48.021218+00:00",
-   "markets": {
-    "kalshi": 106059,
-    "polymarket": 166131
-   },
-   "signals": {
-    "long": 108,
-    "short": 83
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 119,
-   "fetched_at": "2026-08-23T02:39:18.836654+00:00",
-   "markets": {
-    "kalshi": 101298,
-    "polymarket": 158553
-   },
-   "signals": {
-    "long": 99,
-    "short": 67
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 120,
-   "fetched_at": "2026-08-23T07:52:22.993946+00:00",
-   "markets": {
-    "kalshi": 99601,
-    "polymarket": 157674
-   },
-   "signals": {
-    "long": 102,
-    "short": 53
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 121,
-   "fetched_at": "2026-08-23T13:50:14.523727+00:00",
-   "markets": {
-    "kalshi": 99755,
-    "polymarket": 163278
-   },
-   "signals": {
-    "long": 106,
-    "short": 53
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 122,
-   "fetched_at": "2026-08-23T19:41:30.718435+00:00",
-   "markets": {
-    "kalshi": 101424,
-    "polymarket": 166136
-   },
-   "signals": {
-    "long": 93,
-    "short": 52
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 123,
-   "fetched_at": "2026-08-24T02:39:32.170094+00:00",
-   "markets": {
-    "kalshi": 96175,
-    "polymarket": 162836
-   },
-   "signals": {
-    "long": 98,
-    "short": 51
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 124,
-   "fetched_at": "2026-08-24T08:09:05.472018+00:00",
-   "markets": {
-    "kalshi": 95589,
-    "polymarket": 165197
-   },
-   "signals": {
-    "long": 125,
     "short": 52
    },
    "short_fee_survivors": 1
-  },
-  {
-   "run_id": 125,
-   "fetched_at": "2026-08-24T14:08:31.288232+00:00",
-   "markets": {
-    "kalshi": 95900,
-    "polymarket": 167007
-   },
-   "signals": {
-    "long": 150,
-    "short": 67
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 126,
-   "fetched_at": "2026-08-24T19:49:58.667689+00:00",
-   "markets": {
-    "kalshi": 96481,
-    "polymarket": 174535
-   },
-   "signals": {
-    "long": 118,
-    "short": 63
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 127,
-   "fetched_at": "2026-08-25T02:34:00.160204+00:00",
-   "markets": {
-    "kalshi": 103845,
-    "polymarket": 174472
-   },
-   "signals": {
-    "long": 102,
-    "short": 63
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 128,
-   "fetched_at": "2026-08-25T08:04:25.391618+00:00",
-   "markets": {
-    "kalshi": 101017,
-    "polymarket": 174419
-   },
-   "signals": {
-    "long": 94,
-    "short": 50
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 129,
-   "fetched_at": "2026-08-25T14:10:55.839824+00:00",
-   "markets": {
-    "kalshi": 101174,
-    "polymarket": 172469
-   },
-   "signals": {
-    "long": 106,
-    "short": 60
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 130,
-   "fetched_at": "2026-08-25T19:50:59.750755+00:00",
-   "markets": {
-    "kalshi": 101775,
-    "polymarket": 178942
-   },
-   "signals": {
-    "long": 92,
-    "short": 58
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 131,
-   "fetched_at": "2026-08-26T02:41:05.943109+00:00",
-   "markets": {
-    "kalshi": 108113,
-    "polymarket": 180217
-   },
-   "signals": {
-    "long": 89,
-    "short": 50
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 132,
-   "fetched_at": "2026-08-26T08:05:02.593574+00:00",
-   "markets": {
-    "kalshi": 105445,
-    "polymarket": 180453
-   },
-   "signals": {
-    "long": 89,
-    "short": 52
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 133,
-   "fetched_at": "2026-08-26T14:09:18.284143+00:00",
-   "markets": {
-    "kalshi": 106261,
-    "polymarket": 177906
-   },
-   "signals": {
-    "long": 96,
-    "short": 63
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 134,
-   "fetched_at": "2026-08-27T11:14:24.459739+00:00",
-   "markets": {
-    "kalshi": 107593,
-    "polymarket": 184708
-   },
-   "signals": {
-    "long": 101,
-    "short": 59
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 135,
-   "fetched_at": "2026-08-27T22:59:40.693887+00:00",
-   "markets": {
-    "kalshi": 110077,
-    "polymarket": 184266
-   },
-   "signals": {
-    "long": 112,
-    "short": 61
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 136,
-   "fetched_at": "2026-08-28T12:58:58.215732+00:00",
-   "markets": {
-    "kalshi": 111767,
-    "polymarket": 186673
-   },
-   "signals": {
-    "long": 122,
-    "short": 75
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 137,
-   "fetched_at": "2026-08-28T23:05:32.349030+00:00",
-   "markets": {
-    "kalshi": 116361,
-    "polymarket": 184566
-   },
-   "signals": {
-    "long": 110,
-    "short": 74
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 138,
-   "fetched_at": "2026-08-29T07:55:55.842022+00:00",
-   "markets": {
-    "kalshi": 111200,
-    "polymarket": 183076
-   },
-   "signals": {
-    "long": 133,
-    "short": 86
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 139,
-   "fetched_at": "2026-08-29T17:14:21.436227+00:00",
-   "markets": {
-    "kalshi": 111893,
-    "polymarket": 178506
-   },
-   "signals": {
-    "long": 123,
-    "short": 75
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 140,
-   "fetched_at": "2026-08-29T21:49:55.778682+00:00",
-   "markets": {
-    "kalshi": 109404,
-    "polymarket": 176861
-   },
-   "signals": {
-    "long": 117,
-    "short": 66
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 141,
-   "fetched_at": "2026-08-30T06:49:48.758648+00:00",
-   "markets": {
-    "kalshi": 103393,
-    "polymarket": 169870
-   },
-   "signals": {
-    "long": 120,
-    "short": 70
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 142,
-   "fetched_at": "2026-08-30T13:01:32.183534+00:00",
-   "markets": {
-    "kalshi": 104345,
-    "polymarket": 174079
-   },
-   "signals": {
-    "long": 111,
-    "short": 69
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 143,
-   "fetched_at": "2026-08-30T17:38:16.909976+00:00",
-   "markets": {
-    "kalshi": 105353,
-    "polymarket": 173617
-   },
-   "signals": {
-    "long": 104,
-    "short": 76
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 144,
-   "fetched_at": "2026-08-30T21:56:20.223364+00:00",
-   "markets": {
-    "kalshi": 99362,
-    "polymarket": 169013
-   },
-   "signals": {
-    "long": 93,
-    "short": 82
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 145,
-   "fetched_at": "2026-08-31T07:06:40.860755+00:00",
-   "markets": {
-    "kalshi": 98221,
-    "polymarket": 165300
-   },
-   "signals": {
-    "long": 94,
-    "short": 76
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 146,
-   "fetched_at": "2026-08-31T15:13:03.254731+00:00",
-   "markets": {
-    "kalshi": 98295,
-    "polymarket": 172612
-   },
-   "signals": {
-    "long": 100,
-    "short": 73
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 147,
-   "fetched_at": "2026-08-31T23:15:55.963884+00:00",
-   "markets": {
-    "kalshi": 104866,
-    "polymarket": 174967
-   },
-   "signals": {
-    "long": 94,
-    "short": 78
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 148,
-   "fetched_at": "2026-09-01T06:18:23.082398+00:00",
-   "markets": {
-    "kalshi": 103095,
-    "polymarket": 176090
-   },
-   "signals": {
-    "long": 86,
-    "short": 57
-   },
-   "short_fee_survivors": 3
-  },
-  {
-   "run_id": 149,
-   "fetched_at": "2026-09-01T17:21:22.792783+00:00",
-   "markets": {
-    "kalshi": 103140,
-    "polymarket": 176366
-   },
-   "signals": {
-    "long": 86,
-    "short": 67
-   },
-   "short_fee_survivors": 2
-  },
-  {
-   "run_id": 150,
-   "fetched_at": "2026-09-01T21:51:55.558531+00:00",
-   "markets": {
-    "kalshi": 110073,
-    "polymarket": 184028
-   },
-   "signals": {
-    "long": 102,
-    "short": 62
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 151,
-   "fetched_at": "2026-09-02T05:57:19.980442+00:00",
-   "markets": {
-    "kalshi": 108997,
-    "polymarket": 185065
-   },
-   "signals": {
-    "long": 86,
-    "short": 66
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 152,
-   "fetched_at": "2026-09-02T12:10:17.117903+00:00",
-   "markets": {
-    "kalshi": 109646,
-    "polymarket": 183876
-   },
-   "signals": {
-    "long": 98,
-    "short": 58
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 153,
-   "fetched_at": "2026-09-02T17:12:52.487132+00:00",
-   "markets": {
-    "kalshi": 110631,
-    "polymarket": 181441
-   },
-   "signals": {
-    "long": 99,
-    "short": 59
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 154,
-   "fetched_at": "2026-09-02T21:54:51.671066+00:00",
-   "markets": {
-    "kalshi": 117251,
-    "polymarket": 193893
-   },
-   "signals": {
-    "long": 94,
-    "short": 55
-   },
-   "short_fee_survivors": 0
-  },
-  {
-   "run_id": 155,
-   "fetched_at": "2026-09-03T05:56:25.685136+00:00",
-   "markets": {
-    "kalshi": 113968,
-    "polymarket": 190908
-   },
-   "signals": {
-    "long": 99,
-    "short": 59
-   },
-   "short_fee_survivors": 1
-  },
-  {
-   "run_id": 156,
-   "fetched_at": "2026-09-03T12:10:06.763375+00:00",
-   "markets": {
-    "kalshi": 116347,
-    "polymarket": 190618
-   },
-   "signals": {
-    "long": 75,
-    "short": 61
-   },
-   "short_fee_survivors": 2
   }
  ],
  "latest": {
-  "run_id": 156,
-  "fetched_at": "2026-09-03T12:10:06.763375+00:00",
+  "run_id": 1,
+  "fetched_at": "2026-09-03T21:46:01.133888+00:00",
   "signals": [
    {
-    "signal_id": 24298,
+    "signal_id": 84,
     "event_id": "KXLAPRIMARY-02D26",
     "title": "Will Troy Carter be the Democratic nominee for LA-02?",
     "side": "long",
@@ -2044,26 +29,12 @@
     "price_sum": 0.119,
     "gross_edge": 0.881,
     "fee_adjusted_edge": 0.87329587,
-    "annualized_return": 43.82665617294758,
+    "annualized_return": 44.115331601093665,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24232,
-    "event_id": "KXSTATE51-29",
-    "title": "Will D.C. be the 51st U.S. state before Jan 20, 2029?",
-    "side": "long",
-    "num_legs": 8,
-    "legs_quoted": 8,
-    "price_sum": 0.127,
-    "gross_edge": 0.873,
-    "fee_adjusted_edge": 0.86431027,
-    "annualized_return": 2.854832783644611,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24300,
+    "signal_id": 86,
     "event_id": "KXLAPRIMARY-01D26",
     "title": "Will Lauren Jewett be the Democratic nominee for LA-01?",
     "side": "long",
@@ -2072,12 +43,26 @@
     "price_sum": 0.13,
     "gross_edge": 0.87,
     "fee_adjusted_edge": 0.861775,
-    "annualized_return": 39.5889907734476,
+    "annualized_return": 39.84975373962731,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24299,
+    "signal_id": 4,
+    "event_id": "KXSTATE51-29",
+    "title": "Will D.C. be the 51st U.S. state before Jan 20, 2029?",
+    "side": "long",
+    "num_legs": 8,
+    "legs_quoted": 8,
+    "price_sum": 0.136,
+    "gross_edge": 0.864,
+    "fee_adjusted_edge": 0.8547124,
+    "annualized_return": 2.637518296833243,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 85,
     "event_id": "KXLAPRIMARY-01R26",
     "title": "Will Steve Scalise be the Republican nominee for LA-01?",
     "side": "long",
@@ -2086,26 +71,26 @@
     "price_sum": 0.137,
     "gross_edge": 0.863,
     "fee_adjusted_edge": 0.85443823,
-    "annualized_return": 37.24637370216087,
+    "annualized_return": 37.4917064246239,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24295,
+    "signal_id": 81,
     "event_id": "KXLAPRIMARY-04R26",
     "title": "Will Mike Johnson be the Republican nominee for LA-04?",
     "side": "long",
     "num_legs": 3,
     "legs_quoted": 3,
-    "price_sum": 0.196,
-    "gross_edge": 0.804,
-    "fee_adjusted_edge": 0.79149016,
-    "annualized_return": 24.116447859436377,
+    "price_sum": 0.186,
+    "gross_edge": 0.8140000000000001,
+    "fee_adjusted_edge": 0.80202916,
+    "annualized_return": 25.92103374624093,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24308,
+    "signal_id": 121,
     "event_id": "KXNBERRECESSQ",
     "title": "When will the next U.S. recession start?",
     "side": "long",
@@ -2113,13 +98,13 @@
     "legs_quoted": 6,
     "price_sum": 0.203,
     "gross_edge": 0.7969999999999999,
-    "fee_adjusted_edge": 0.78338325,
-    "annualized_return": 11.824799832052326,
+    "fee_adjusted_edge": 0.78338367,
+    "annualized_return": 11.864641330029478,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24292,
+    "signal_id": 78,
     "event_id": "KXLAPRIMARY-06R26",
     "title": "Will Monique Appeaning be the Republican nominee for LA-06?",
     "side": "long",
@@ -2128,12 +113,12 @@
     "price_sum": 0.21500000000000002,
     "gross_edge": 0.7849999999999999,
     "fee_adjusted_edge": 0.7709283899999999,
-    "annualized_return": 21.414082478124016,
+    "annualized_return": 21.555131783901164,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24294,
+    "signal_id": 80,
     "event_id": "KXLAPRIMARY-05D26",
     "title": "Will Jessee Fleenor be the Democratic nominee for LA-05?",
     "side": "long",
@@ -2142,54 +127,54 @@
     "price_sum": 0.256,
     "gross_edge": 0.744,
     "fee_adjusted_edge": 0.72844908,
-    "annualized_return": 16.993511338861065,
+    "annualized_return": 17.105443427453284,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24297,
+    "signal_id": 83,
     "event_id": "KXLAPRIMARY-03D26",
     "title": "Will John Day be the Democratic nominee for LA-03?",
     "side": "long",
     "num_legs": 3,
     "legs_quoted": 3,
-    "price_sum": 0.257,
-    "gross_edge": 0.743,
-    "fee_adjusted_edge": 0.7273007499999999,
-    "annualized_return": 16.900704324360383,
+    "price_sum": 0.258,
+    "gross_edge": 0.742,
+    "fee_adjusted_edge": 0.72623754,
+    "annualized_return": 16.921314270962093,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24336,
-    "event_id": "KXTOPMODEL-26SEP30",
-    "title": "What will be the top AI model this month?",
+    "signal_id": 82,
+    "event_id": "KXLAPRIMARY-04D26",
+    "title": "Will Conrad Cable be the Democratic nominee for LA-04?",
     "side": "long",
-    "num_legs": 5,
-    "legs_quoted": 5,
-    "price_sum": 0.27,
-    "gross_edge": 0.73,
-    "fee_adjusted_edge": 0.712801,
-    "annualized_return": 35.58835491894928,
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 0.278,
+    "gross_edge": 0.722,
+    "fee_adjusted_edge": 0.7059506799999999,
+    "annualized_return": 15.265276254701503,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24293,
+    "signal_id": 79,
     "event_id": "KXLAPRIMARY-05R26",
     "title": "Will Misti Cordell be the Republican nominee for LA-05?",
     "side": "long",
     "num_legs": 7,
     "legs_quoted": 7,
-    "price_sum": 0.275,
-    "gross_edge": 0.725,
-    "fee_adjusted_edge": 0.70678929,
-    "annualized_return": 15.349037883124332,
+    "price_sum": 0.282,
+    "gross_edge": 0.718,
+    "fee_adjusted_edge": 0.69938112,
+    "annualized_return": 14.908704232126938,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24228,
+    "signal_id": 1,
     "event_id": "KXNEWPOPE-70",
     "title": "Who will the next Pope be?",
     "side": "long",
@@ -2198,40 +183,40 @@
     "price_sum": 0.288,
     "gross_edge": 0.712,
     "fee_adjusted_edge": 0.69269764,
-    "annualized_return": 0.055471471396522636,
+    "annualized_return": 0.055472873227023746,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24296,
-    "event_id": "KXLAPRIMARY-04D26",
-    "title": "Will Conrad Cable be the Democratic nominee for LA-04?",
+    "signal_id": 52,
+    "event_id": "KXMODELHIGH-27-1550",
+    "title": "Will Qwen be the first to hit 1550 on Text Arena?",
     "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.29800000000000004,
-    "gross_edge": 0.702,
-    "fee_adjusted_edge": 0.6851666799999999,
-    "annualized_return": 13.731053604102126,
+    "num_legs": 8,
+    "legs_quoted": 8,
+    "price_sum": 0.35,
+    "gross_edge": 0.65,
+    "fee_adjusted_edge": 0.627523,
+    "annualized_return": 5.466317603962348,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24274,
+    "signal_id": 54,
     "event_id": "KXACQUANNOUNCEPINS-27JAN01",
     "title": "Will OpenAI announce acquisition of Pinterest before Jan 1, 2027?",
     "side": "long",
     "num_legs": 6,
     "legs_quoted": 6,
-    "price_sum": 0.36,
-    "gross_edge": 0.64,
-    "fee_adjusted_edge": 0.61634,
-    "annualized_return": 5.202387618825843,
+    "price_sum": 0.35,
+    "gross_edge": 0.65,
+    "fee_adjusted_edge": 0.626977,
+    "annualized_return": 5.461561428632098,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24305,
+    "signal_id": 96,
     "event_id": "KXNEXTTEAMNFL-26BSOR",
     "title": "What will be Brendan Sorsby's next team?",
     "side": "long",
@@ -2240,40 +225,12 @@
     "price_sum": 0.3700000000000001,
     "gross_edge": 0.6299999999999999,
     "fee_adjusted_edge": 0.6045689999999999,
-    "annualized_return": 49.385873546507305,
+    "annualized_return": 51.0774199668102,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24272,
-    "event_id": "KXNEWROLEX-27JAN",
-    "title": "Who will be the next CEO of X?",
-    "side": "long",
-    "num_legs": 8,
-    "legs_quoted": 8,
-    "price_sum": 0.39,
-    "gross_edge": 0.61,
-    "fee_adjusted_edge": 0.5848909999999999,
-    "annualized_return": 4.557169539434026,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24273,
-    "event_id": "KXMODELHIGH-27-1550",
-    "title": "Will Qwen be the first to hit 1550 on Text Arena?",
-    "side": "long",
-    "num_legs": 8,
-    "legs_quoted": 8,
-    "price_sum": 0.41000000000000003,
-    "gross_edge": 0.59,
-    "fee_adjusted_edge": 0.564149,
-    "annualized_return": 4.181141064040013,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24291,
+    "signal_id": 74,
     "event_id": "KXNCAAMBNEXTCOACH-KU26",
     "title": "Will Jacque Vaughn be the next permanent head coach of Kansas men's college basketball?",
     "side": "long",
@@ -2282,12 +239,26 @@
     "price_sum": 0.41000000000000014,
     "gross_edge": 0.5899999999999999,
     "fee_adjusted_edge": 0.5624689999999999,
-    "annualized_return": 7.350990407920112,
+    "annualized_return": 7.394404498105366,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24310,
+    "signal_id": 51,
+    "event_id": "KXNEWROLEX-27JAN",
+    "title": "Who will be the next CEO of X?",
+    "side": "long",
+    "num_legs": 8,
+    "legs_quoted": 8,
+    "price_sum": 0.53,
+    "gross_edge": 0.47,
+    "fee_adjusted_edge": 0.43836699999999995,
+    "annualized_return": 2.521710584173902,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 53,
     "event_id": "KXGOOGLESEARCH-TVS27",
     "title": "Will His & Hers be the #1 rank on Google\u2019s Year in Search 2026 Global - Tv Shows list?",
     "side": "long",
@@ -2296,12 +267,12 @@
     "price_sum": 0.6000000000000001,
     "gross_edge": 0.3999999999999999,
     "fee_adjusted_edge": 0.3631379999999999,
-    "annualized_return": 1.8390998167814951,
+    "annualized_return": 1.8452435866193675,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24276,
+    "signal_id": 56,
     "event_id": "KXWORDOFTHEYEAR-26DEC",
     "title": "Will Brainrot be in the \u201cWord of the Year\u201d as designated by Merriam-Webster in 2026?",
     "side": "long",
@@ -2310,12 +281,26 @@
     "price_sum": 0.6300000000000001,
     "gross_edge": 0.3699999999999999,
     "fee_adjusted_edge": 0.3304989999999999,
-    "annualized_return": 1.6074784322589137,
+    "annualized_return": 1.6128936717853564,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24326,
+    "signal_id": 41,
+    "event_id": "KXKOSOVOPRES-27JAN01",
+    "title": "Will Arianit Koci be the next President of Kosovo before Jan 1, 2027?",
+    "side": "long",
+    "num_legs": 10,
+    "legs_quoted": 10,
+    "price_sum": 0.7000000000000002,
+    "gross_edge": 0.2999999999999998,
+    "fee_adjusted_edge": 0.2701799999999998,
+    "annualized_return": 1.1117562165966652,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 26,
     "event_id": "KXDCCCCHAIR-27MAR02",
     "title": "Will Greg Stanton be the next Chair of the Democratic Congressional Campaign Committee (DCCC) before Mar 2, 2027?",
     "side": "long",
@@ -2324,12 +309,12 @@
     "price_sum": 0.7360000000000001,
     "gross_edge": 0.2639999999999999,
     "fee_adjusted_edge": 0.2196884599999999,
-    "annualized_return": 0.582246357725104,
+    "annualized_return": 0.5834934820155881,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24281,
+    "signal_id": 62,
     "event_id": "KXRANKLISTGOOGLESEARCH2-26DEC",
     "title": "Will Donald Trump be the #2 rank on Google\u2019s Year in Search 2026 Global \u2013 People?",
     "side": "long",
@@ -2338,96 +323,68 @@
     "price_sum": 0.76,
     "gross_edge": 0.24,
     "fee_adjusted_edge": 0.194206,
-    "annualized_return": 0.7830051263059125,
+    "annualized_return": 0.7856428975035145,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24333,
-    "event_id": "KXKOSOVOPRES-27JAN01",
-    "title": "Will Arianit Koci be the next President of Kosovo before Jan 1, 2027?",
-    "side": "long",
-    "num_legs": 10,
-    "legs_quoted": 10,
-    "price_sum": 0.7800000000000001,
-    "gross_edge": 0.21999999999999986,
-    "fee_adjusted_edge": 0.19005399999999983,
-    "annualized_return": 0.6996298049024254,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24280,
-    "event_id": "KXRANKLISTGOOGLESEARCH-26DEC",
-    "title": "Will Donald Trump be the #1 rank on Google\u2019s Year in Search 2026 Global \u2013 People?",
-    "side": "long",
-    "num_legs": 16,
-    "legs_quoted": 16,
-    "price_sum": 0.77,
-    "gross_edge": 0.22999999999999998,
-    "fee_adjusted_edge": 0.181805,
-    "annualized_return": 0.7234868672113952,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24334,
-    "event_id": "KXTRUMPPHOTO-26SEP06",
-    "title": "Will the number of distinct days with a Getty Images editorial photo of Trump be exactly 4 between Aug 31, 2026 and Sep 6, 2026?",
-    "side": "long",
-    "num_legs": 4,
-    "legs_quoted": 4,
-    "price_sum": 0.7899999999999999,
-    "gross_edge": 0.21000000000000008,
-    "fee_adjusted_edge": 0.17143700000000006,
-    "annualized_return": 19.43135393084835,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24236,
+    "signal_id": 7,
     "event_id": "KXVPRESNOMR-28",
     "title": "Will J.D. Vance be the nominee for the Vice Presidency for the Republican party?",
     "side": "long",
     "num_legs": 22,
     "legs_quoted": 22,
-    "price_sum": 0.7890000000000003,
-    "gross_edge": 0.21099999999999974,
-    "fee_adjusted_edge": 0.16246878999999975,
-    "annualized_return": 0.09440790848664121,
+    "price_sum": 0.7910000000000003,
+    "gross_edge": 0.20899999999999974,
+    "fee_adjusted_edge": 0.16034404999999974,
+    "annualized_return": 0.09298438528302012,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24239,
+    "signal_id": 61,
+    "event_id": "KXRANKLISTGOOGLESEARCH-26DEC",
+    "title": "Will Donald Trump be the #1 rank on Google\u2019s Year in Search 2026 Global \u2013 People?",
+    "side": "long",
+    "num_legs": 16,
+    "legs_quoted": 16,
+    "price_sum": 0.8,
+    "gross_edge": 0.19999999999999996,
+    "fee_adjusted_edge": 0.14959999999999996,
+    "annualized_return": 0.5749336714272445,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 9,
     "event_id": "KXPRESMATCHUP-28NOV07",
     "title": "Will Gavin Newsom and JD Vance be the 2028 Democratic and Republican presidential nominees?",
     "side": "long",
     "num_legs": 16,
     "legs_quoted": 16,
-    "price_sum": 0.8040000000000002,
-    "gross_edge": 0.19599999999999984,
-    "fee_adjusted_edge": 0.14458415999999985,
-    "annualized_return": 0.08246957659434039,
+    "price_sum": 0.8170000000000002,
+    "gross_edge": 0.18299999999999983,
+    "fee_adjusted_edge": 0.13085860999999982,
+    "annualized_return": 0.07348989489323823,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24243,
-    "event_id": "KXPRESTAIWAN-28",
-    "title": "Who will win the next Taiwanese presidential election?",
+    "signal_id": 98,
+    "event_id": "KXTRUMPPHOTO-26SEP06",
+    "title": "Will the number of distinct days with a Getty Images editorial photo of Trump be exactly 4 between Aug 31, 2026 and Sep 6, 2026?",
     "side": "long",
-    "num_legs": 3,
-    "legs_quoted": 3,
-    "price_sum": 0.85,
-    "gross_edge": 0.15000000000000002,
-    "fee_adjusted_edge": 0.11999100000000001,
-    "annualized_return": 0.10002669161600809,
+    "num_legs": 4,
+    "legs_quoted": 4,
+    "price_sum": 0.84,
+    "gross_edge": 0.16000000000000003,
+    "fee_adjusted_edge": 0.11976400000000004,
+    "annualized_return": 14.155329282883622,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24290,
+    "signal_id": 73,
     "event_id": "KXNEXTMANAGERMLB-PHI26",
     "title": "Who will be the next Manager of the Philadelphia Phillies?",
     "side": "long",
@@ -2436,12 +393,12 @@
     "price_sum": 0.8400000000000003,
     "gross_edge": 0.1599999999999997,
     "fee_adjusted_edge": 0.11356199999999969,
-    "annualized_return": 0.553708627210605,
+    "annualized_return": 0.5562047076844265,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24258,
+    "signal_id": 30,
     "event_id": "KXCLOSESTGOVERNOR-27JAN20",
     "title": "Will Maine have the smallest margin of victory in 2026 United States gubernatorial elections?",
     "side": "long",
@@ -2450,12 +407,12 @@
     "price_sum": 0.842,
     "gross_edge": 0.15800000000000003,
     "fee_adjusted_edge": 0.10473434000000001,
-    "annualized_return": 0.3263522555892775,
+    "annualized_return": 0.3272931543801452,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24249,
+    "signal_id": 15,
     "event_id": "KXMONGOLIAPRES-27",
     "title": "Who will win the next Mongolian presidential election?",
     "side": "long",
@@ -2464,40 +421,12 @@
     "price_sum": 0.857,
     "gross_edge": 0.14300000000000002,
     "fee_adjusted_edge": 0.10447053,
-    "annualized_return": 0.14827711549876865,
+    "annualized_return": 0.14847499958252267,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24287,
-    "event_id": "KXMLBGG-26AL2B",
-    "title": "Will Tie/Co-Winners win the AL Gold Glove for Second Baseman in the 2026 season?",
-    "side": "long",
-    "num_legs": 8,
-    "legs_quoted": 8,
-    "price_sum": 0.8500000000000001,
-    "gross_edge": 0.1499999999999999,
-    "fee_adjusted_edge": 0.1013849999999999,
-    "annualized_return": 0.365485653470444,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24237,
-    "event_id": "KXSENATENYD-28",
-    "title": "Will Chuck Schumer be the Democratic nominee for the Senate in New York?",
-    "side": "long",
-    "num_legs": 3,
-    "legs_quoted": 3,
-    "price_sum": 0.87,
-    "gross_edge": 0.13,
-    "fee_adjusted_edge": 0.09331300000000001,
-    "annualized_return": 0.049174316607228735,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24288,
+    "signal_id": 71,
     "event_id": "KXNCAAMBAPRANK-26W2R1",
     "title": "Will Duke be the #1 ranked team on Men's College Basketball AP Poll Week 2 rankings?",
     "side": "long",
@@ -2506,26 +435,12 @@
     "price_sum": 0.8600000000000002,
     "gross_edge": 0.1399999999999998,
     "fee_adjusted_edge": 0.08727599999999977,
-    "annualized_return": 0.3592153290641099,
+    "annualized_return": 0.36061394145152204,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24238,
-    "event_id": "KXPRESNOMG-28",
-    "title": "Will Jill Stein be the nominee for the Presidency for the Green party?",
-    "side": "long",
-    "num_legs": 6,
-    "legs_quoted": 6,
-    "price_sum": 0.8669999999999999,
-    "gross_edge": 0.13300000000000012,
-    "fee_adjusted_edge": 0.08451821000000012,
-    "annualized_return": 0.04469373263888816,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24235,
+    "signal_id": 6,
     "event_id": "KXDTICKET-28NOV07",
     "title": "Will Gavin Newsom and Gretchen Whitmer be the 2028 Democratic Presidential ticket?",
     "side": "long",
@@ -2534,12 +449,12 @@
     "price_sum": 0.8600000000000002,
     "gross_edge": 0.1399999999999998,
     "fee_adjusted_edge": 0.0828064999999998,
-    "annualized_return": 0.043760219769030814,
+    "annualized_return": 0.04378202223980792,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24279,
+    "signal_id": 59,
     "event_id": "KXTHEGAMBIAPRES-26",
     "title": "Who will win the next Gambian presidential election?",
     "side": "long",
@@ -2548,12 +463,12 @@
     "price_sum": 0.8900000000000001,
     "gross_edge": 0.10999999999999988,
     "fee_adjusted_edge": 0.08126499999999987,
-    "annualized_return": 0.27978800229057077,
+    "annualized_return": 0.28073054622685184,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24327,
+    "signal_id": 40,
     "event_id": "KXMINLEAD120-26NOV30",
     "title": "Will Hakeem Jeffries win the House Minority Leader election for the 120th Congress?",
     "side": "long",
@@ -2562,54 +477,82 @@
     "price_sum": 0.88,
     "gross_edge": 0.12,
     "fee_adjusted_edge": 0.071308,
-    "annualized_return": 0.23267058106348074,
+    "annualized_return": 0.23340491273979197,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24241,
-    "event_id": "KXPHILIPPINESSENATE-28",
-    "title": "Who will win the next Philippine Senate election?",
+    "signal_id": 68,
+    "event_id": "KXNCAAMBAPRANK-26W3R1",
+    "title": "Will Duke be the #1 ranked team on Men's College Basketball AP Poll Week 3 rankings?",
+    "side": "long",
+    "num_legs": 11,
+    "legs_quoted": 11,
+    "price_sum": 0.8800000000000003,
+    "gross_edge": 0.11999999999999966,
+    "fee_adjusted_edge": 0.06747199999999966,
+    "annualized_return": 0.23573119031683787,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 11,
+    "event_id": "KXPRESTAIWAN-28",
+    "title": "Who will win the next Taiwanese presidential election?",
+    "side": "long",
+    "num_legs": 3,
+    "legs_quoted": 3,
+    "price_sum": 0.91,
+    "gross_edge": 0.08999999999999997,
+    "fee_adjusted_edge": 0.05684099999999997,
+    "annualized_return": 0.0442938866678278,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 8,
+    "event_id": "KXSENATENYD-28",
+    "title": "Will Chuck Schumer be the Democratic nominee for the Senate in New York?",
+    "side": "long",
+    "num_legs": 3,
+    "legs_quoted": 3,
+    "price_sum": 0.92,
+    "gross_edge": 0.07999999999999996,
+    "fee_adjusted_edge": 0.04285799999999996,
+    "annualized_return": 0.021368681801167196,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 50,
+    "event_id": "KXRECCOUNT-27",
+    "title": "Will 1 reconciliation bills be passed in 2027?",
     "side": "long",
     "num_legs": 2,
     "legs_quoted": 2,
-    "price_sum": 0.8999999999999999,
-    "gross_edge": 0.10000000000000009,
-    "fee_adjusted_edge": 0.06771600000000008,
-    "annualized_return": 0.04317500831575186,
+    "price_sum": 0.95,
+    "gross_edge": 0.050000000000000044,
+    "fee_adjusted_edge": 0.02419100000000004,
+    "annualized_return": 0.07699293870965648,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24229,
-    "event_id": "KXNEWROLEGS-35DEC",
-    "title": "Who will be the next CEO of Goldman Sachs?",
+    "signal_id": 69,
+    "event_id": "KXMLBGG-26ALP",
+    "title": "Will Tie/Co-Winners win the AL Gold Glove for Pitcher in the 2026 season?",
     "side": "long",
-    "num_legs": 6,
-    "legs_quoted": 6,
+    "num_legs": 12,
+    "legs_quoted": 12,
     "price_sum": 0.92,
     "gross_edge": 0.07999999999999996,
-    "fee_adjusted_edge": 0.04226999999999995,
-    "annualized_return": 0.004923119881750111,
+    "fee_adjusted_edge": 0.021185999999999955,
+    "annualized_return": 0.07080065544557998,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24340,
-    "event_id": "KXBRPRESIDENT5-BRPRES26-5",
-    "title": "Will Augusto Cury finish 5th in the first round of the 2026 Brazilian presidential election?",
-    "side": "long",
-    "num_legs": 13,
-    "legs_quoted": 13,
-    "price_sum": 0.92,
-    "gross_edge": 0.07999999999999996,
-    "fee_adjusted_edge": 0.03020199999999995,
-    "annualized_return": 0.19289609454280424,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24284,
+    "signal_id": 66,
     "event_id": "KXNCAAMBAPRANK-26W5R1",
     "title": "Will Duke be the #1 ranked team on Men's College Basketball AP Poll Week 5 rankings?",
     "side": "long",
@@ -2618,12 +561,12 @@
     "price_sum": 0.9300000000000004,
     "gross_edge": 0.06999999999999962,
     "fee_adjusted_edge": 0.015140999999999613,
-    "annualized_return": 0.049886974407854195,
+    "annualized_return": 0.05005503259777866,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24283,
+    "signal_id": 65,
     "event_id": "KXNCAAMBAPRANK-26W6R1",
     "title": "Will Duke be the #1 ranked team on Men's College Basketball AP Poll Week 6 rankings?",
     "side": "long",
@@ -2632,12 +575,12 @@
     "price_sum": 0.9300000000000004,
     "gross_edge": 0.06999999999999962,
     "fee_adjusted_edge": 0.01477699999999961,
-    "annualized_return": 0.04868765740868244,
+    "annualized_return": 0.04885167536472985,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24285,
+    "signal_id": 67,
     "event_id": "KXNCAAMBAPRANK-26W4R1",
     "title": "Will Duke be the #1 ranked team on Men's College Basketball AP Poll Week 4 rankings?",
     "side": "long",
@@ -2646,12 +589,12 @@
     "price_sum": 0.9300000000000002,
     "gross_edge": 0.06999999999999984,
     "fee_adjusted_edge": 0.014216999999999841,
-    "annualized_return": 0.04684255433303437,
+    "annualized_return": 0.047000356544655536,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24268,
+    "signal_id": 49,
     "event_id": "KXSECSTATEWI-26",
     "title": "Will the Democratic party win the Secretary of State election in Wisconsin?",
     "side": "long",
@@ -2660,26 +603,12 @@
     "price_sum": 0.97,
     "gross_edge": 0.030000000000000027,
     "fee_adjusted_edge": 0.008055000000000027,
-    "annualized_return": 0.024618704934134195,
+    "annualized_return": 0.024698936640244834,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24351,
-    "event_id": "KXCS2MAP-26SEP030100CWNEX-2",
-    "title": "Chinggis Warriors wins map 2",
-    "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": 0.007935000000000008,
-    "annualized_return": null,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24352,
+    "signal_id": 120,
     "event_id": "KXCS2MAP-26SEP030100CWNEX-1",
     "title": "Chinggis Warriors wins map 1",
     "side": "short",
@@ -2693,7 +622,7 @@
     "friction": null
    },
    {
-    "signal_id": 24240,
+    "signal_id": 10,
     "event_id": "KXMOLDOVAPRES-28",
     "title": "Who will win the next Moldovan presidential election?",
     "side": "long",
@@ -2702,12 +631,12 @@
     "price_sum": 0.9400000000000001,
     "gross_edge": 0.05999999999999994,
     "fee_adjusted_edge": 0.005091999999999937,
-    "annualized_return": 0.0025057307377929234,
+    "annualized_return": 0.0025070013844894264,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24282,
+    "signal_id": 63,
     "event_id": "KXNCAAMBAPRANK-26W8R1",
     "title": "Will Duke be the #1 ranked team on Men's College Basketball AP Poll Week 8 rankings?",
     "side": "long",
@@ -2716,152 +645,180 @@
     "price_sum": 0.9400000000000004,
     "gross_edge": 0.05999999999999961,
     "fee_adjusted_edge": 0.004531999999999606,
-    "annualized_return": 0.014773302885868204,
+    "annualized_return": 0.014823070877847568,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24231,
-    "event_id": "KXTRUMPAGCOUNT-29",
-    "title": "How many Attorneys General will Trump have?",
-    "side": "long",
-    "num_legs": 4,
-    "legs_quoted": 4,
-    "price_sum": 0.96,
-    "gross_edge": 0.040000000000000036,
-    "fee_adjusted_edge": 0.0011501400000000356,
-    "annualized_return": 0.0005025672654978711,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24265,
-    "event_id": "KXHOUSERACE-MD01-26",
-    "title": "Will Democratic win the House race for MD-01?",
+    "signal_id": 113,
+    "event_id": "KXITFWMATCH-26SEP04POZROU",
+    "title": "Aleksandra Pozarenko wins",
     "side": "long",
     "num_legs": 2,
     "legs_quoted": 2,
-    "price_sum": 0.9910000000000001,
-    "gross_edge": 0.008999999999999897,
-    "fee_adjusted_edge": 0.0006773499999998996,
-    "annualized_return": 0.0020249626504688753,
+    "price_sum": 0.98,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": 0.004180000000000017,
+    "annualized_return": 2.3017334665555866,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24242,
-    "event_id": "KXPRESTURKEYR1-28",
-    "title": "Who will win the first round of the next Turkish presidential election?",
+    "signal_id": 76,
+    "event_id": "KXSTATELEG-MNHOUSE26",
+    "title": "Who will win the Minnesota State House?",
     "side": "long",
-    "num_legs": 3,
-    "legs_quoted": 3,
-    "price_sum": 0.97,
-    "gross_edge": 0.030000000000000027,
-    "fee_adjusted_edge": -0.00026099999999997653,
-    "annualized_return": -0.00016045603873877305,
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 0.98,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.0015319999999999848,
+    "annualized_return": -0.009397401725773746,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24277,
-    "event_id": "KXUFCLHEAVYWEIGHTTITLE-26",
-    "title": "Who will be the Light Heavyweight Title on Dec 31, 2026?",
+    "signal_id": 119,
+    "event_id": "KXWTADOUBLES-26SEP03WILWILCHAJOI",
+    "title": "Serena Williams / Venus Williams wins",
     "side": "short",
-    "num_legs": 10,
-    "legs_quoted": 3,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.000996999999999991,
-    "annualized_return": -0.0015351741051438843,
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 1.03,
+    "gross_edge": 0.030000000000000027,
+    "fee_adjusted_edge": -0.0034249999999999767,
+    "annualized_return": null,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24304,
-    "event_id": "KXWNBAWORSTREC-26",
-    "title": "Will Atlanta have the worst record in the 2026 Women's Pro Basketball regular season?",
+    "signal_id": 55,
+    "event_id": "KXGOLDVSSILVER-26DEC31",
+    "title": "Will Gold outperform Silver?",
+    "side": "long",
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 0.98,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.004009999999999986,
+    "annualized_return": -0.012518959587061533,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 115,
+    "event_id": "KXITFWMATCH-26SEP04DIAHAN",
+    "title": "Kateryna Diatlova wins",
+    "side": "long",
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 0.98,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.004009999999999986,
+    "annualized_return": -2.5184039588862954,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 60,
+    "event_id": "KXRATECUTCOUNT-26DEC31",
+    "title": "Will the Fed cut rates 0 times?",
     "side": "short",
-    "num_legs": 15,
-    "legs_quoted": 3,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.000996999999999991,
-    "annualized_return": -0.008283396506280022,
+    "num_legs": 21,
+    "legs_quoted": 4,
+    "price_sum": 1.013,
+    "gross_edge": 0.0129999999999999,
+    "fee_adjusted_edge": -0.0041574900000001,
+    "annualized_return": -0.004279294034617233,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24324,
-    "event_id": "KXNCAAFGAME-26SEP05LAFCONN",
-    "title": "UConn wins",
+    "signal_id": 112,
+    "event_id": "KXITFWMATCH-26SEP04PARBRE",
+    "title": "Serena Paris wins",
     "side": "long",
     "num_legs": 2,
     "legs_quoted": 2,
     "price_sum": 0.99,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.0020329999999999914,
-    "annualized_return": -0.3280775573487339,
+    "fee_adjusted_edge": -0.004244999999999994,
+    "annualized_return": -2.2447724232247457,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24302,
-    "event_id": "KXNEXTTEAMNBA-26KDURANT7",
-    "title": "What will be Kevin Durant's next team?",
-    "side": "short",
-    "num_legs": 30,
+    "signal_id": 116,
+    "event_id": "KXITFMATCH-26SEP04BOUDEC",
+    "title": "Moerani Bouzige wins",
+    "side": "long",
+    "num_legs": 2,
     "legs_quoted": 2,
-    "price_sum": 1.01,
+    "price_sum": 0.99,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.004244999999999992,
-    "annualized_return": -0.032553990473636316,
-    "exhaustiveness_verified": null,
+    "fee_adjusted_edge": -0.004244999999999994,
+    "annualized_return": -3.070527408917527,
+    "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24255,
-    "event_id": "KXNFLEXECOTY-27",
-    "title": "Will Dan Morgan win the Executive of the Year?",
+    "signal_id": 42,
+    "event_id": "KXGOVCA-26",
+    "title": "Who will win the governorship in California?",
     "side": "short",
-    "num_legs": 32,
-    "legs_quoted": 30,
-    "price_sum": 1.0600000000000003,
-    "gross_edge": 0.060000000000000275,
-    "fee_adjusted_edge": -0.005645999999999707,
-    "annualized_return": -0.0003540660769271114,
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 1.001,
+    "gross_edge": 0.0009999999999998899,
+    "fee_adjusted_edge": -0.004568850000000114,
+    "annualized_return": -0.01338458748229412,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24323,
-    "event_id": "KXNCAAFGAME-26SEP05WEBSUU",
-    "title": "Southern Utah wins",
+    "signal_id": 47,
+    "event_id": "SENATEMN-26",
+    "title": "Will Republicans win the Senate race in Minnesota?",
+    "side": "short",
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 1.0050000000000001,
+    "gross_edge": 0.0050000000000001155,
+    "fee_adjusted_edge": -0.005596249999999884,
+    "annualized_return": -0.016728556681330654,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 64,
+    "event_id": "KXNCAAMBAPRANK-26W7R1",
+    "title": "Will Duke be the #1 ranked team on Men's College Basketball AP Poll Week 7 rankings?",
+    "side": "long",
+    "num_legs": 11,
+    "legs_quoted": 11,
+    "price_sum": 0.9500000000000004,
+    "gross_edge": 0.0499999999999996,
+    "fee_adjusted_edge": -0.0060770000000004015,
+    "annualized_return": -0.019667165332190237,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 46,
+    "event_id": "KXHOUSERACE-FL11-26",
+    "title": "Will Democratic win the House race for FL-11?",
     "side": "long",
     "num_legs": 2,
     "legs_quoted": 2,
     "price_sum": 0.99,
     "gross_edge": 0.010000000000000009,
     "fee_adjusted_edge": -0.006344999999999993,
-    "annualized_return": -0.8935593916283867,
+    "annualized_return": -0.019049608909034618,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24278,
-    "event_id": "KXUFCBANTAMWEIGHTTITLE-26",
-    "title": "Who will be the Bantamweight Title Holder on Dec 31, 2026?",
-    "side": "short",
-    "num_legs": 9,
-    "legs_quoted": 3,
-    "price_sum": 1.0299999999999998,
-    "gross_edge": 0.029999999999999805,
-    "fee_adjusted_edge": -0.0066730000000002065,
-    "annualized_return": -0.0103793570759053,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24322,
+    "signal_id": 94,
     "event_id": "KXVMA-BE26",
     "title": "Will Ariana Grande win Best Editing at the 2026 MTV Video Music Awards?",
     "side": "long",
@@ -2870,166 +827,138 @@
     "price_sum": 0.96,
     "gross_edge": 0.040000000000000036,
     "fee_adjusted_edge": -0.006703999999999974,
-    "annualized_return": -0.10336679860900087,
+    "annualized_return": -0.10507090675418633,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24267,
-    "event_id": "SENATEMN-26",
-    "title": "Will Republicans win the Senate race in Minnesota?",
+    "signal_id": 33,
+    "event_id": "KXNFLFFLEADER-27RB",
+    "title": "Will Jahmyr Gibbs be the #1 ranked fantasy RB in the 2026-27 Pro Football regular season?",
     "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.0030000000000001,
-    "gross_edge": 0.0030000000000001137,
-    "fee_adjusted_edge": -0.007479769999999886,
-    "annualized_return": -0.022241520724436494,
+    "num_legs": 35,
+    "legs_quoted": 34,
+    "price_sum": 1.0600000000000003,
+    "gross_edge": 0.060000000000000275,
+    "fee_adjusted_edge": -0.00760599999999971,
+    "annualized_return": -0.000616452700293387,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24271,
-    "event_id": "KXRECCOUNT-27",
-    "title": "Will 0 reconciliation bills be passed in 2027?",
+    "signal_id": 57,
+    "event_id": "KXUFCMIDDLEWEIGHTTITLE-26",
+    "title": "Who will be the Middleweight Title Holder on Dec 31, 2026?",
+    "side": "short",
+    "num_legs": 8,
+    "legs_quoted": 4,
+    "price_sum": 1.03,
+    "gross_edge": 0.030000000000000027,
+    "fee_adjusted_edge": -0.008016999999999982,
+    "annualized_return": -0.008299110973968222,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 44,
+    "event_id": "KXHOUSERACE-TX21-26",
+    "title": "Will Democratic win the House race for TX-21?",
     "side": "long",
     "num_legs": 2,
     "legs_quoted": 2,
-    "price_sum": 0.98,
-    "gross_edge": 0.020000000000000018,
-    "fee_adjusted_edge": -0.007579999999999983,
-    "annualized_return": -0.023309200903170218,
+    "price_sum": 0.9990000000000001,
+    "gross_edge": 0.0009999999999998899,
+    "fee_adjusted_edge": -0.008053730000000108,
+    "annualized_return": -0.023961897704066863,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24286,
-    "event_id": "KXMLBNLCY-26",
-    "title": "Will Paul Skenes win NL Cy Young?",
+    "signal_id": 105,
+    "event_id": "KXLOWTCHI-26SEP04",
+    "title": "Will the minimum temperature be <66\u00b0 on Sep 4, 2026?",
     "side": "short",
-    "num_legs": 46,
-    "legs_quoted": 3,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.007968999999999993,
-    "annualized_return": -0.01227061428675197,
+    "num_legs": 6,
+    "legs_quoted": 5,
+    "price_sum": 1.02,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.008545999999999984,
+    "annualized_return": -0.41584200269750465,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24359,
-    "event_id": "KXUCLGAME-26SEP10MUNSBH",
-    "title": "Manchester United wins",
-    "side": "short",
-    "num_legs": 3,
-    "legs_quoted": 3,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.008052999999999994,
-    "annualized_return": -0.19934261354838012,
-    "exhaustiveness_verified": null,
+    "signal_id": 3,
+    "event_id": "KXTRUMPAGCOUNT-29",
+    "title": "How many Attorneys General will Trump have?",
+    "side": "long",
+    "num_legs": 4,
+    "legs_quoted": 4,
+    "price_sum": 0.97,
+    "gross_edge": 0.030000000000000027,
+    "fee_adjusted_edge": -0.009164859999999983,
+    "annualized_return": -0.003965230935022433,
+    "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24275,
-    "event_id": "KXGOLDVSSILVER-26DEC31",
-    "title": "Will Gold outperform Silver?",
+    "signal_id": 111,
+    "event_id": "KXITFMATCH-26SEP04DJUFAB",
+    "title": "Branko Djuric wins",
     "side": "long",
     "num_legs": 2,
     "legs_quoted": 2,
     "price_sum": 0.99,
     "gross_edge": 0.010000000000000009,
     "fee_adjusted_edge": -0.009284999999999995,
-    "annualized_return": -0.028598495859445558,
+    "annualized_return": -4.767486465847004,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24270,
-    "event_id": "HOUSENY17-26",
-    "title": "Will Democratic win the House race for NY-17?",
+    "signal_id": 48,
+    "event_id": "SENATEFLS-26",
+    "title": "Will Republicans win the Senate race in Florida?",
     "side": "short",
     "num_legs": 2,
     "legs_quoted": 2,
-    "price_sum": 1.02,
-    "gross_edge": 0.020000000000000018,
-    "fee_adjusted_edge": -0.010939999999999984,
-    "annualized_return": -0.033095019321253624,
+    "price_sum": 1.0010000000000001,
+    "gross_edge": 0.001000000000000112,
+    "fee_adjusted_edge": -0.010178089999999888,
+    "annualized_return": -0.03030297336788617,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24354,
-    "event_id": "KXITFWDOUBLES-26SEP03GANMAIANTMOC",
-    "title": "Gandolfi / Mais wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.98,
-    "gross_edge": 0.020000000000000018,
-    "fee_adjusted_edge": -0.010939999999999984,
-    "annualized_return": -14.31469716905865,
-    "exhaustiveness_verified": false,
+    "signal_id": 108,
+    "event_id": "KXHIGHLAX-26SEP04",
+    "title": "Will the maximum temperature be <71\u00b0 on Sep 4, 2026?",
+    "side": "short",
+    "num_legs": 6,
+    "legs_quoted": 4,
+    "price_sum": 1.03,
+    "gross_edge": 0.030000000000000027,
+    "fee_adjusted_edge": -0.01176899999999998,
+    "annualized_return": -0.767417415767504,
+    "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24362,
-    "event_id": "KXCS2GAME-26SEP031200MEIBHE",
-    "title": "MEIA NOITE wins",
+    "signal_id": 31,
+    "event_id": "GOVPARTYTX-26",
+    "title": "Will the Democratic party win the governorship in Texas",
     "side": "short",
     "num_legs": 2,
     "legs_quoted": 2,
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
     "fee_adjusted_edge": -0.01197299999999999,
-    "annualized_return": -13.527871162868742,
+    "annualized_return": -0.03182201681483854,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24245,
-    "event_id": "KXITALYDEPUTIES-27",
-    "title": "Who will win the next Italian Chamber of Deputies election?",
-    "side": "short",
-    "num_legs": 5,
-    "legs_quoted": 5,
-    "price_sum": 1.0229999999999997,
-    "gross_edge": 0.022999999999999687,
-    "fee_adjusted_edge": -0.012195790000000324,
-    "annualized_return": -0.002312043500802751,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24338,
-    "event_id": "KXLOLGAME-26SEP031230ESBEXE",
-    "title": "eSuba wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.012812999999999991,
-    "annualized_return": -13.60814426305986,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24306,
-    "event_id": "KXEMMYCSACTR-26SEP14",
-    "title": "Will Hannah Einbinder win Comedy Supporting Actress at the Emmy Awards?",
-    "side": "short",
-    "num_legs": 14,
-    "legs_quoted": 6,
-    "price_sum": 1.02,
-    "gross_edge": 0.020000000000000018,
-    "fee_adjusted_edge": -0.013571999999999987,
-    "annualized_return": -0.08531943121735336,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24339,
+    "signal_id": 16,
     "event_id": "KXUPASSEMBLY-27MAY22",
     "title": "Will Bharatiya Janata Party-led NDA win the 2027 Uttar Pradesh Legislative Assembly election?",
     "side": "short",
@@ -3038,12 +967,12 @@
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
     "fee_adjusted_edge": -0.01463299999999999,
-    "annualized_return": -0.009189181435010171,
+    "annualized_return": -0.009201781268757911,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24252,
+    "signal_id": 22,
     "event_id": "KXNFLDROTY-27",
     "title": "Will Arvell Reese win the Defensive Rookie of the Year?",
     "side": "short",
@@ -3052,96 +981,26 @@
     "price_sum": 1.0500000000000003,
     "gross_edge": 0.050000000000000266,
     "fee_adjusted_edge": -0.014742999999999729,
-    "annualized_return": -0.001440471535464251,
+    "annualized_return": -0.0014432449813909234,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24234,
-    "event_id": "KXCABOUT-26MAY22",
-    "title": "Will Marco Rubio be the next person to leave the Trump Cabinet?",
+    "signal_id": 90,
+    "event_id": "KXTECHRANKLISTAICODE-26SEP30",
+    "title": "Top Coding AI this month (Arena.ai)?",
     "side": "short",
-    "num_legs": 21,
-    "legs_quoted": 18,
-    "price_sum": 1.05,
-    "gross_edge": 0.050000000000000044,
-    "fee_adjusted_edge": -0.015092999999999954,
-    "annualized_return": -0.00037352578950541226,
+    "num_legs": 9,
+    "legs_quoted": 9,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.015570999999999988,
+    "annualized_return": -0.026664642389441648,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24360,
-    "event_id": "KXCS2GAME-26SEP031800PROKEYD",
-    "title": "Procyon Gaming wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.015164999999999994,
-    "annualized_return": -9.701602357289657,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24315,
-    "event_id": "KXNEXTDEPUTYAG-28JAN01",
-    "title": "Will R. Trent McCotter be the next Deputy Attorney General before Jan 1, 2028?",
-    "side": "long",
-    "num_legs": 6,
-    "legs_quoted": 6,
-    "price_sum": 0.9600000000000001,
-    "gross_edge": 0.039999999999999925,
-    "fee_adjusted_edge": -0.015608000000000094,
-    "annualized_return": -0.01205867686345767,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24345,
-    "event_id": "KXLOLGAME-26SEP031100KHKBIG",
-    "title": "Kaufland Hangry Knights wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.016592999999999997,
-    "annualized_return": -21.49218831123545,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24289,
-    "event_id": "KXNCAAFACC-26",
-    "title": "Will Clemson win the College Football ACC Championship?",
-    "side": "short",
-    "num_legs": 17,
-    "legs_quoted": 11,
-    "price_sum": 1.03,
-    "gross_edge": 0.030000000000000027,
-    "fee_adjusted_edge": -0.017074999999999965,
-    "annualized_return": -0.006641800606105818,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24357,
-    "event_id": "KXITFWMATCH-26SEP03DEKGRO",
-    "title": "Rikke De Koning wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.017264999999999996,
-    "annualized_return": -24.128592894504166,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24264,
+    "signal_id": 45,
     "event_id": "KXHOUSERACE-SC01-26",
     "title": "Will Democratic win the House race for SC-01?",
     "side": "short",
@@ -3150,12 +1009,12 @@
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
     "fee_adjusted_edge": -0.018524999999999993,
-    "annualized_return": -0.05543710702961107,
+    "annualized_return": -0.05561765248855264,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24254,
+    "signal_id": 24,
     "event_id": "KXNFLPROOTY-27",
     "title": "Will Penei Sewell win the Protector of the Year?",
     "side": "short",
@@ -3163,13 +1022,13 @@
     "legs_quoted": 38,
     "price_sum": 1.0500000000000003,
     "gross_edge": 0.050000000000000266,
-    "fee_adjusted_edge": -0.018858999999999737,
-    "annualized_return": -0.0009262883240154436,
+    "fee_adjusted_edge": -0.01866299999999972,
+    "annualized_return": -0.0009184879543524265,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24328,
+    "signal_id": 43,
     "event_id": "KXMOSD8-26",
     "title": "Who will win the 2026 Missouri State Senate District 8 general election?",
     "side": "short",
@@ -3178,82 +1037,40 @@
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
     "fee_adjusted_edge": -0.01911299999999999,
-    "annualized_return": -0.056774306799702925,
+    "annualized_return": -0.056957837213547004,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24335,
-    "event_id": "KXLOLMAP-26SEP031700MVUCONT-3",
-    "title": "Maryville University wins map 3",
+    "signal_id": 23,
+    "event_id": "KXNFLCOTY-27",
+    "title": "Will Mike LaFleur win the Coach of the Year?",
     "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.019672999999999993,
-    "annualized_return": -14.713004279168759,
+    "num_legs": 33,
+    "legs_quoted": 31,
+    "price_sum": 1.0500000000000003,
+    "gross_edge": 0.050000000000000266,
+    "fee_adjusted_edge": -0.01937699999999974,
+    "annualized_return": -0.0011368635853651415,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24246,
-    "event_id": "KXMETXCOMBO-26NOV",
-    "title": "Will Texas Senate be James Talarico wins AND Maine Senate be Susan Collins wins for Nov 2026?",
-    "side": "short",
-    "num_legs": 6,
-    "legs_quoted": 4,
-    "price_sum": 1.03,
-    "gross_edge": 0.030000000000000027,
-    "fee_adjusted_edge": -0.019874999999999976,
-    "annualized_return": -0.005732659723697901,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24341,
-    "event_id": "KXBOLPDIVGAME-26SEP05GUAPOT",
-    "title": "Guabira wins",
+    "signal_id": 100,
+    "event_id": "KXEKSTRAKLASAGAME-26SEP06LPOCZE",
+    "title": "Lech Poznan wins",
     "side": "long",
     "num_legs": 3,
     "legs_quoted": 3,
     "price_sum": 0.98,
     "gross_edge": 0.020000000000000018,
-    "fee_adjusted_edge": -0.019969999999999988,
-    "annualized_return": -3.0866826386733086,
+    "fee_adjusted_edge": -0.020459999999999985,
+    "annualized_return": -2.6608368334567847,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24361,
-    "event_id": "KXCS2GAME-26SEP031500PAINAYAW",
-    "title": "paiN Academy wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.021633,
-    "annualized_return": -17.67253609761567,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24332,
-    "event_id": "KXCFLGAME-26SEP04BCMTL",
-    "title": "Montreal Alouettes wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.022444999999999993,
-    "annualized_return": -5.181234169253059,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24303,
+    "signal_id": 92,
     "event_id": "KXMLBTEAMSTAT-26MOSTKS",
     "title": "Will Seattle record the most strikeouts thrown in the 2026 Pro Baseball regular season?",
     "side": "short",
@@ -3261,125 +1078,111 @@
     "legs_quoted": 2,
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.022808999999999996,
-    "annualized_return": -0.33535151637625277,
+    "fee_adjusted_edge": -0.02070899999999999,
+    "annualized_return": -0.3094107674599622,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24355,
-    "event_id": "KXITFMATCH-26SEP03LIMSIL",
-    "title": "Enzo Lima wins",
+    "signal_id": 70,
+    "event_id": "KXDANCINGWITHTHESTARS-26DEC31",
+    "title": "Will Julia Stiles win Dancing with the Stars Season 35?",
+    "side": "short",
+    "num_legs": 16,
+    "legs_quoted": 16,
+    "price_sum": 1.04,
+    "gross_edge": 0.040000000000000036,
+    "fee_adjusted_edge": -0.021151999999999962,
+    "annualized_return": -0.0043470634769471024,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 29,
+    "event_id": "KXBALANCEPOWERCOMBO-27FEB",
+    "title": "Will House Control be Democratic AND Senate Control be Democratic for Feb 2027?",
+    "side": "short",
+    "num_legs": 4,
+    "legs_quoted": 4,
+    "price_sum": 1.023,
+    "gross_edge": 0.02299999999999991,
+    "fee_adjusted_edge": -0.021235170000000088,
+    "annualized_return": -0.017274461868759413,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 18,
+    "event_id": "KXNFLDRAFTPICK-27-1",
+    "title": "Who will be picked 1st in the Pro Football Draft?",
+    "side": "short",
+    "num_legs": 20,
+    "legs_quoted": 15,
+    "price_sum": 1.04,
+    "gross_edge": 0.040000000000000036,
+    "fee_adjusted_edge": -0.021613999999999953,
+    "annualized_return": -0.0022277300798391212,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 39,
+    "event_id": "KXVICTORIAPREMIER-27JAN01",
+    "title": "Will it be confirmed that Ben Carroll is the first person to serve as Premier of Victoria after the caretaker period for the 2026 Victorian state election ends?",
+    "side": "long",
+    "num_legs": 5,
+    "legs_quoted": 5,
+    "price_sum": 0.9900000000000001,
+    "gross_edge": 0.009999999999999898,
+    "fee_adjusted_edge": -0.021885000000000106,
+    "annualized_return": -0.06367453257930071,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 110,
+    "event_id": "KXATPMATCH-26SEP04VACTIA",
+    "title": "Valentin Vacherot wins",
+    "side": "short",
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.02205299999999999,
+    "annualized_return": -9.644415521638077,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 109,
+    "event_id": "KXCFLGAME-26SEP04BCMTL",
+    "title": "Montreal Alouettes wins",
     "side": "long",
     "num_legs": 2,
     "legs_quoted": 2,
     "price_sum": 0.99,
     "gross_edge": 0.010000000000000009,
     "fee_adjusted_edge": -0.022808999999999996,
-    "annualized_return": -29.543501668834413,
+    "annualized_return": -7.02415208695368,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24301,
-    "event_id": "KXBRPRES-26",
-    "title": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+    "signal_id": 91,
+    "event_id": "KXCHINAAI-26SEP30",
+    "title": "Top Chinese AI Company this month?",
     "side": "short",
-    "num_legs": 14,
-    "legs_quoted": 8,
-    "price_sum": 1.013,
-    "gross_edge": 0.0129999999999999,
-    "fee_adjusted_edge": -0.023766030000000105,
-    "annualized_return": -0.023840675335686082,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24307,
-    "event_id": "KXWTA-26USO",
-    "title": "Will Iga Swiatek win the US Open Women's Singles?",
-    "side": "short",
-    "num_legs": 24,
-    "legs_quoted": 16,
-    "price_sum": 1.0400000000000003,
-    "gross_edge": 0.04000000000000026,
-    "fee_adjusted_edge": -0.02381199999999975,
-    "annualized_return": -0.059886197065618145,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24259,
-    "event_id": "GOVPARTYOH-26",
-    "title": "Will the Democratic party win the governorship in Ohio",
-    "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
+    "num_legs": 9,
+    "legs_quoted": 9,
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024404999999999996,
-    "annualized_return": -0.0675926964519915,
+    "fee_adjusted_edge": -0.023187000000000006,
+    "annualized_return": -0.039706702400872394,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24342,
-    "event_id": "KXATPSETWINNER-26SEP02POPTAB-1",
-    "title": "Will Alexei Popyrin win set 1 in the Alexei Popyrin vs Alejandro Tabilo match",
-    "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024572999999999998,
-    "annualized_return": null,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24269,
-    "event_id": "HOUSEPA1-26",
-    "title": "Will Democratic win the House race for PA-1?",
-    "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024713,
-    "annualized_return": -0.07400510297088057,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24358,
-    "event_id": "KXATPMATCH-26SEP03SVAGEA",
-    "title": "Zachary Svajda wins",
-    "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024824999999999993,
-    "annualized_return": -37.668755182198616,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24266,
-    "event_id": "SENATEOHS-26",
-    "title": "Will Republicans win the Senate race in Ohio?",
-    "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024908999999999994,
-    "annualized_return": -0.07459204102705716,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24325,
+    "signal_id": 102,
     "event_id": "KXMLSGAME-26SEP05PHIMTL",
     "title": "Philadelphia wins",
     "side": "long",
@@ -3387,125 +1190,223 @@
     "legs_quoted": 3,
     "price_sum": 0.99,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024908999999999994,
-    "annualized_return": -3.536046293825201,
+    "fee_adjusted_edge": -0.024236999999999995,
+    "annualized_return": -4.066915453057561,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24329,
-    "event_id": "KXT20MATCH-26SEP031015GLAAMS",
-    "title": "Amsterdam Flames wins",
+    "signal_id": 25,
+    "event_id": "KXEFLCUP-27",
+    "title": "Will Arsenal win the 2026-27 EFL Cup?",
     "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024908999999999994,
-    "annualized_return": -36.2424654845785,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24343,
-    "event_id": "KXATPSETWINNER-26SEP02DARSVR-1",
-    "title": "Will Luciano Darderi win set 1 in the Luciano Darderi vs Dalibor Svrcina match",
-    "side": "short",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024908999999999994,
-    "annualized_return": null,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24353,
-    "event_id": "KXITFWMATCH-26SEP03ROMNAV",
-    "title": "Camila Romero wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024908999999999994,
-    "annualized_return": -32.26353996532054,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24344,
-    "event_id": "KXLOLGAME-26SEP050200IGTES",
-    "title": "Invictus Gaming wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024964999999999994,
-    "annualized_return": -4.819886824089552,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24356,
-    "event_id": "KXCS2GAME-26SEP031100EFNTR",
-    "title": "Eternal Fire wins",
-    "side": "long",
-    "num_legs": 2,
-    "legs_quoted": 2,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.024964999999999994,
-    "annualized_return": -32.336074319893505,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24313,
-    "event_id": "KXNFLFFLEADER-27RB",
-    "title": "Will Jahmyr Gibbs be the #1 ranked fantasy RB in the 2026-27 Pro Football regular season?",
-    "side": "short",
-    "num_legs": 35,
-    "legs_quoted": 34,
+    "num_legs": 23,
+    "legs_quoted": 23,
     "price_sum": 1.0400000000000003,
     "gross_edge": 0.04000000000000026,
-    "fee_adjusted_edge": -0.026289999999999716,
-    "annualized_return": -0.002123253504116824,
+    "fee_adjusted_edge": -0.02428799999999974,
+    "annualized_return": -0.002030639815832352,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24349,
-    "event_id": "KXHIGHMIA-26SEP03",
-    "title": "Will the maximum temperature be <87\u00b0 on Sep 3, 2026?",
+    "signal_id": 89,
+    "event_id": "KXBRPRES-26",
+    "title": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+    "side": "short",
+    "num_legs": 14,
+    "legs_quoted": 7,
+    "price_sum": 1.0130000000000001,
+    "gross_edge": 0.013000000000000123,
+    "fee_adjusted_edge": -0.02433330999999988,
+    "annualized_return": -0.028707326432516007,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 95,
+    "event_id": "KXFEDCOMBO-26SEPB",
+    "title": "Will Federal Funds Rate Decision be No change AND Dissents be 0 for Sep 2026?",
     "side": "short",
     "num_legs": 6,
     "legs_quoted": 4,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.026798999999999996,
-    "annualized_return": -2.5465809822882024,
+    "price_sum": 1.02,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.024533999999999986,
+    "annualized_return": -0.23024418343088432,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24321,
-    "event_id": "KXEMMY-VSPR26SEP14",
-    "title": "Will Dave Chappelle: The Unstoppable\u2026 win Outstanding Variety Special (Pre-Recorded) at the Emmy Awards?",
+    "signal_id": 117,
+    "event_id": "KXMLBF3-26SEP032140ATHSEA",
+    "title": "A's first 3 innings winner",
+    "side": "long",
+    "num_legs": 3,
+    "legs_quoted": 3,
+    "price_sum": 0.98,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.024589999999999994,
+    "annualized_return": -31.857177364590726,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 93,
+    "event_id": "KXCBDECISIONAUSTRALIA-26SEP28",
+    "title": "Will the Reserve Bank of Australia Cut more than 25bps at the September Monetary Policy Board meeting?",
+    "side": "long",
+    "num_legs": 5,
+    "legs_quoted": 5,
+    "price_sum": 0.99,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.024657,
+    "annualized_return": -0.37440317269381457,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 101,
+    "event_id": "KXNCAAFGAME-26SEP05UCLACAL",
+    "title": "California wins",
     "side": "short",
-    "num_legs": 6,
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.024824999999999993,
+    "annualized_return": -3.941355462344265,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 114,
+    "event_id": "KXITFMATCH-26SEP04GSCRIS",
+    "title": "Jeremy Gschwendtner wins",
+    "side": "long",
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 0.99,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.024825,
+    "annualized_return": -14.420230522163331,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 35,
+    "event_id": "KXNFLTEAMPTS-MOST27",
+    "title": "Will Arizona be the highest scoring team?",
+    "side": "short",
+    "num_legs": 32,
+    "legs_quoted": 17,
+    "price_sum": 1.04,
+    "gross_edge": 0.040000000000000036,
+    "fee_adjusted_edge": -0.024875999999999968,
+    "annualized_return": -0.004385712306262033,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 104,
+    "event_id": "KXUFCFIGHT-26SEP05CORSYG",
+    "title": "Nora Cornolle wins",
+    "side": "short",
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.024964999999999994,
+    "annualized_return": -4.579900485872663,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 118,
+    "event_id": "KXCPLMATCH-26SEP031900STLSKN",
+    "title": "St. Kitts and Nevis Patriots wins",
+    "side": "short",
+    "num_legs": 2,
+    "legs_quoted": 2,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.024964999999999994,
+    "annualized_return": -42.21319492080092,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 75,
+    "event_id": "KXQUEBEC3RD-26OCT05-3",
+    "title": "Will Coalition avenir Qu\u00e9bec (CAQ) finish 3rd in the 2026 Quebec general election?",
+    "side": "short",
+    "num_legs": 5,
     "legs_quoted": 5,
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.028030999999999993,
-    "annualized_return": -0.21993742650797152,
+    "fee_adjusted_edge": -0.026882999999999997,
+    "annualized_return": -0.03921075513770089,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24262,
+    "signal_id": 38,
+    "event_id": "KXNFLAFCSOUTH-27",
+    "title": "Will Houston win the Pro Football AFC South Division?",
+    "side": "short",
+    "num_legs": 4,
+    "legs_quoted": 4,
+    "price_sum": 1.02,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.026913999999999987,
+    "annualized_return": -0.02541291373981868,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 72,
+    "event_id": "KXNCAAFACC-26",
+    "title": "Will Clemson win the College Football ACC Championship?",
+    "side": "short",
+    "num_legs": 17,
+    "legs_quoted": 11,
+    "price_sum": 1.0200000000000002,
+    "gross_edge": 0.02000000000000024,
+    "fee_adjusted_edge": -0.027165999999999746,
+    "annualized_return": -0.010601438809467534,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 58,
+    "event_id": "KXUFCBANTAMWEIGHTTITLE-26",
+    "title": "Who will be the Bantamweight Title Holder on Dec 31, 2026?",
+    "side": "short",
+    "num_legs": 9,
+    "legs_quoted": 3,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.027372999999999995,
+    "annualized_return": -0.04229075696121776,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 97,
+    "event_id": "KXEMMYLIMITEDACTO-26SEP14",
+    "title": "Will Matthew Rhys win Movie/Limited Actor at the Emmy Awards?",
+    "side": "short",
+    "num_legs": 13,
+    "legs_quoted": 5,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.027387,
+    "annualized_return": -0.22251743555219733,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 37,
     "event_id": "KXNFLNFCEAST-27",
     "title": "Will Philadelphia win the Pro Football NFC East Division?",
     "side": "short",
@@ -3514,54 +1415,54 @@
     "price_sum": 1.02,
     "gross_edge": 0.020000000000000018,
     "fee_adjusted_edge": -0.028397999999999993,
-    "annualized_return": -0.026731729130084734,
+    "annualized_return": -0.026814145960591926,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24253,
-    "event_id": "KXNFLCOTY-27",
-    "title": "Will Mike LaFleur win the Coach of the Year?",
-    "side": "short",
-    "num_legs": 33,
-    "legs_quoted": 31,
-    "price_sum": 1.0400000000000003,
-    "gross_edge": 0.04000000000000026,
-    "fee_adjusted_edge": -0.028781999999999752,
-    "annualized_return": -0.0016848546000932984,
-    "exhaustiveness_verified": null,
+    "signal_id": 21,
+    "event_id": "KXGOVWINS-27JAN01",
+    "title": "Will the difference between the number of Republican governors and the number of Democratic governors be between 1 and 50 governors after the 2026 midterms?",
+    "side": "long",
+    "num_legs": 3,
+    "legs_quoted": 3,
+    "price_sum": 0.99,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.030452999999999994,
+    "annualized_return": -0.053536744296903485,
+    "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24347,
-    "event_id": "KXHIGHTSFO-26SEP03",
-    "title": "Will the maximum temperature be <66\u00b0 on Sep 3, 2026?",
-    "side": "short",
-    "num_legs": 6,
+    "signal_id": 77,
+    "event_id": "KXLTGOVRINOMD-26",
+    "title": "Will Sue AnderBois be the Democratic nominee for Lt. Governor in Rhode Island?",
+    "side": "long",
+    "num_legs": 5,
     "legs_quoted": 5,
-    "price_sum": 1.02,
-    "gross_edge": 0.020000000000000018,
-    "fee_adjusted_edge": -0.028887999999999983,
-    "annualized_return": -2.0622651105340246,
-    "exhaustiveness_verified": null,
+    "price_sum": 0.99,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.030704999999999996,
+    "annualized_return": -0.1864442569230741,
+    "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24250,
-    "event_id": "KXNFLDRAFTPICK-27-1",
-    "title": "Who will be picked 1st in the Pro Football Draft?",
-    "side": "short",
-    "num_legs": 20,
-    "legs_quoted": 15,
-    "price_sum": 1.03,
-    "gross_edge": 0.030000000000000027,
-    "fee_adjusted_edge": -0.030696999999999974,
-    "annualized_return": -0.003156662987152745,
-    "exhaustiveness_verified": null,
+    "signal_id": 99,
+    "event_id": "KXECULPGAME-26SEP06MURLEO",
+    "title": "Mushuc Runa wins",
+    "side": "long",
+    "num_legs": 3,
+    "legs_quoted": 3,
+    "price_sum": 0.99,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.032006999999999994,
+    "annualized_return": -3.8672918428138714,
+    "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24233,
+    "signal_id": 5,
     "event_id": "KXNEXTSTATE-29",
     "title": "Who will be Trump's next Secretary of State?",
     "side": "long",
@@ -3570,54 +1471,12 @@
     "price_sum": 0.9900000000000001,
     "gross_edge": 0.009999999999999898,
     "fee_adjusted_edge": -0.033435000000000104,
-    "annualized_return": -0.014167096619633317,
+    "annualized_return": -0.01417361127760138,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24320,
-    "event_id": "KXEFLCUP-27",
-    "title": "Will Arsenal win the 2026-27 EFL Cup?",
-    "side": "short",
-    "num_legs": 23,
-    "legs_quoted": 23,
-    "price_sum": 1.0300000000000002,
-    "gross_edge": 0.03000000000000025,
-    "fee_adjusted_edge": -0.03390299999999974,
-    "annualized_return": -0.0028275399238246973,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24330,
-    "event_id": "KXLALIGA2GAME-26SEP04LPALEG",
-    "title": "Las Palmas wins",
-    "side": "long",
-    "num_legs": 3,
-    "legs_quoted": 3,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.03414899999999999,
-    "annualized_return": -9.065518218554615,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24260,
-    "event_id": "KXNFLTEAMPTS-MOST27",
-    "title": "Will Arizona be the highest scoring team?",
-    "side": "short",
-    "num_legs": 32,
-    "legs_quoted": 17,
-    "price_sum": 1.03,
-    "gross_edge": 0.030000000000000027,
-    "fee_adjusted_edge": -0.03429499999999998,
-    "annualized_return": -0.006023951298523897,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24319,
+    "signal_id": 19,
     "event_id": "KXCOPADELREY-27",
     "title": "Will Alaves win the 2026-27 Copa del Rey?",
     "side": "short",
@@ -3626,82 +1485,26 @@
     "price_sum": 1.0200000000000002,
     "gross_edge": 0.02000000000000024,
     "fee_adjusted_edge": -0.034333999999999754,
-    "annualized_return": -0.0024440125239769076,
+    "annualized_return": -0.0024482096469698733,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24363,
-    "event_id": "KXMLBF3-26SEP031235SFPIT",
-    "title": "San Francisco first 3 innings winner",
+    "signal_id": 103,
+    "event_id": "KXBRASILEIROGAME-26SEP05SPAATL",
+    "title": "Sao Paulo wins",
     "side": "long",
     "num_legs": 3,
     "legs_quoted": 3,
     "price_sum": 0.99,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.035031,
-    "annualized_return": -41.80446895574551,
+    "fee_adjusted_edge": -0.034793,
+    "annualized_return": -6.068342536250447,
     "exhaustiveness_verified": false,
     "friction": null
    },
    {
-    "signal_id": 24311,
-    "event_id": "KXFEDCOMBO-26SEPB",
-    "title": "Will Federal Funds Rate Decision be No change AND Dissents be 0 for Sep 2026?",
-    "side": "short",
-    "num_legs": 6,
-    "legs_quoted": 4,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.035464999999999997,
-    "annualized_return": -0.32185261278248256,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24337,
-    "event_id": "KXNASCARRACE-COOOS26",
-    "title": "Cup Series: Tyler Reddick wins",
-    "side": "short",
-    "num_legs": 38,
-    "legs_quoted": 22,
-    "price_sum": 1.0300000000000002,
-    "gross_edge": 0.03000000000000025,
-    "fee_adjusted_edge": -0.03573699999999974,
-    "annualized_return": -0.17192803175916346,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24244,
-    "event_id": "KXUSTESTSMATH-26",
-    "title": "Will US test scores in Math decline?",
-    "side": "long",
-    "num_legs": 3,
-    "legs_quoted": 3,
-    "price_sum": 0.99,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.03608099999999999,
-    "annualized_return": -0.027477994070676255,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24331,
-    "event_id": "KXVENFUTVEGAME-26SEP03EDMUCV",
-    "title": "Est. Merida wins",
-    "side": "short",
-    "num_legs": 3,
-    "legs_quoted": 3,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.03638899999999999,
-    "annualized_return": -10.118131756250904,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24312,
+    "signal_id": 32,
     "event_id": "KXNFLFFLEADER-27WR",
     "title": "Will Ja'Marr Chase be the #1 ranked fantasy WR in the 2026-27 Pro Football regular season?",
     "side": "short",
@@ -3709,209 +1512,139 @@
     "legs_quoted": 35,
     "price_sum": 1.0300000000000005,
     "gross_edge": 0.03000000000000047,
-    "fee_adjusted_edge": -0.03656299999999951,
-    "annualized_return": -0.00286513270444244,
+    "fee_adjusted_edge": -0.036744999999999514,
+    "annualized_return": -0.0028878174603062254,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24263,
-    "event_id": "KXNFLAFCSOUTH-27",
-    "title": "Will Houston win the Pro Football AFC South Division?",
+    "signal_id": 106,
+    "event_id": "KXHIGHTOKC-26SEP04",
+    "title": "Will the maximum temperature be <95\u00b0 on Sep 4, 2026?",
     "side": "short",
-    "num_legs": 4,
+    "num_legs": 6,
+    "legs_quoted": 6,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.037397,
+    "annualized_return": -1.4513921039367963,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 107,
+    "event_id": "KXHIGHPHIL-26SEP04",
+    "title": "Will the maximum temperature be <86\u00b0 on Sep 4, 2026?",
+    "side": "short",
+    "num_legs": 6,
+    "legs_quoted": 5,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.03822299999999999,
+    "annualized_return": -1.8552413358180395,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 12,
+    "event_id": "KXMETXCOMBO-26NOV",
+    "title": "Will Texas Senate be James Talarico wins AND Maine Senate be Susan Collins wins for Nov 2026?",
+    "side": "short",
+    "num_legs": 6,
     "legs_quoted": 4,
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.036878999999999995,
-    "annualized_return": -0.03459899699697889,
+    "fee_adjusted_edge": -0.038755,
+    "annualized_return": -0.011113986605334344,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24251,
+    "signal_id": 20,
     "event_id": "KXMARMAD-27",
     "title": "Will Butler win the College Basketball National Championship?",
     "side": "short",
     "num_legs": 73,
     "legs_quoted": 57,
-    "price_sum": 1.0299999999999998,
-    "gross_edge": 0.029999999999999805,
-    "fee_adjusted_edge": -0.038189100000000184,
-    "annualized_return": -0.001121436654975295,
+    "price_sum": 1.029,
+    "gross_edge": 0.028999999999999915,
+    "fee_adjusted_edge": -0.03911791000000006,
+    "annualized_return": -0.0011507633687062137,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24248,
-    "event_id": "KXNBAMVP-27",
-    "title": "Will Shai Gilgeous-Alexander win MVP?",
-    "side": "short",
-    "num_legs": 53,
-    "legs_quoted": 9,
-    "price_sum": 1.0200000000000002,
-    "gross_edge": 0.02000000000000024,
-    "fee_adjusted_edge": -0.03857599999999977,
-    "annualized_return": -0.005329409100611321,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24257,
-    "event_id": "KXBALANCEPOWERCOMBO-27FEB",
-    "title": "Will House Control be Democratic AND Senate Control be Democratic for Feb 2027?",
-    "side": "short",
-    "num_legs": 4,
-    "legs_quoted": 4,
-    "price_sum": 1.003,
-    "gross_edge": 0.0029999999999998916,
-    "fee_adjusted_edge": -0.04070317000000011,
-    "annualized_return": -0.03280335193882286,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24261,
-    "event_id": "KXNFLNFCSOUTH-27",
-    "title": "Will Tampa Bay win the Pro Football NFC South Division?",
-    "side": "short",
-    "num_legs": 4,
-    "legs_quoted": 4,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.041666999999999996,
-    "annualized_return": -0.039090984242336264,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24350,
-    "event_id": "KXHIGHAUS-26SEP03",
-    "title": "Will the maximum temperature be <95\u00b0 on Sep 3, 2026?",
-    "side": "short",
-    "num_legs": 6,
-    "legs_quoted": 5,
-    "price_sum": 1.0000000000000002,
-    "gross_edge": 2.220446049250313e-16,
-    "fee_adjusted_edge": -0.04248999999999978,
-    "annualized_return": -3.0181222765112623,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24348,
-    "event_id": "KXHIGHTBOS-26SEP03",
-    "title": "Will the maximum temperature be <73\u00b0 on Sep 3, 2026?",
-    "side": "short",
-    "num_legs": 6,
-    "legs_quoted": 5,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.043403,
-    "annualized_return": -3.0907006553196124,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24316,
-    "event_id": "KXNFLFFLEADER-27ROOK",
-    "title": "Will Jeremiyah Love be the #1 ranked fantasy rookie in the 2026-27 Pro Football regular season?",
-    "side": "short",
-    "num_legs": 45,
-    "legs_quoted": 45,
-    "price_sum": 1.0200000000000002,
-    "gross_edge": 0.02000000000000024,
-    "fee_adjusted_edge": -0.044903999999999736,
-    "annualized_return": -0.0027178674385332164,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24230,
-    "event_id": "KXNEXTPRESSEC-29JAN21",
-    "title": "Will Alina Habba be the next White House Press Secretary of United States?",
-    "side": "long",
-    "num_legs": 28,
-    "legs_quoted": 28,
-    "price_sum": 0.9860000000000004,
-    "gross_edge": 0.013999999999999568,
-    "fee_adjusted_edge": -0.04647538000000043,
-    "annualized_return": -0.019749764553239346,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24346,
-    "event_id": "KXDANCINGWITHTHESTARS-26DEC31",
-    "title": "Will Julia Stiles win Dancing with the Stars Season 35?",
-    "side": "short",
-    "num_legs": 16,
-    "legs_quoted": 16,
-    "price_sum": 1.0100000000000002,
-    "gross_edge": 0.010000000000000231,
-    "fee_adjusted_edge": -0.04728099999999977,
-    "annualized_return": -0.00966497143612047,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24318,
-    "event_id": "KXEFLCHAMPIONSHIP-27",
-    "title": "Will Birmingham win the EFL Championship?",
-    "side": "short",
-    "num_legs": 24,
-    "legs_quoted": 24,
-    "price_sum": 1.01,
-    "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.04761699999999999,
-    "annualized_return": -0.0031467716007227533,
-    "exhaustiveness_verified": null,
-    "friction": null
-   },
-   {
-    "signal_id": 24309,
-    "event_id": "KXWC-30",
-    "title": "Will Mexico win the 2030 FIFA Men's World Cup?",
-    "side": "long",
-    "num_legs": 82,
-    "legs_quoted": 82,
-    "price_sum": 0.9830000000000001,
-    "gross_edge": 0.016999999999999904,
-    "fee_adjusted_edge": -0.048192610000000094,
-    "annualized_return": -0.01132121079571795,
-    "exhaustiveness_verified": false,
-    "friction": null
-   },
-   {
-    "signal_id": 24317,
+    "signal_id": 17,
     "event_id": "KXFACUP-27",
     "title": "Will Arsenal win the 2026-27 FA Cup?",
     "side": "short",
     "num_legs": 24,
     "legs_quoted": 23,
+    "price_sum": 1.02,
+    "gross_edge": 0.020000000000000018,
+    "fee_adjusted_edge": -0.041235999999999974,
+    "annualized_return": -0.002626458969778765,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 87,
+    "event_id": "KXMLBNL-26",
+    "title": "Will Milwaukee win the 2026 Pro Baseball National League Championship?",
+    "side": "short",
+    "num_legs": 15,
+    "legs_quoted": 7,
     "price_sum": 1.01,
     "gross_edge": 0.010000000000000009,
-    "fee_adjusted_edge": -0.05087899999999999,
-    "annualized_return": -0.0032342190372003326,
+    "fee_adjusted_edge": -0.043234999999999996,
+    "annualized_return": -0.04522027442557165,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24247,
-    "event_id": "KXHOUSEPOPVOTEMARGIN-27NOV03",
-    "title": "Will Republicans win the 2026 U.S. House of Representatives national popular vote?",
+    "signal_id": 14,
+    "event_id": "KXNBAMVP-27",
+    "title": "Will Shai Gilgeous-Alexander win MVP?",
     "side": "short",
-    "num_legs": 10,
-    "legs_quoted": 10,
-    "price_sum": 1.006,
-    "gross_edge": 0.006000000000000005,
-    "fee_adjusted_edge": -0.053070339999999994,
-    "annualized_return": -0.005055300020333795,
+    "num_legs": 53,
+    "legs_quoted": 9,
+    "price_sum": 1.0100000000000002,
+    "gross_edge": 0.010000000000000231,
+    "fee_adjusted_edge": -0.04792499999999977,
+    "annualized_return": -0.006620717199390161,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24256,
+    "signal_id": 2,
+    "event_id": "KXWC-30",
+    "title": "Will Mexico win the 2030 FIFA Men's World Cup?",
+    "side": "long",
+    "num_legs": 82,
+    "legs_quoted": 82,
+    "price_sum": 0.9840000000000002,
+    "gross_edge": 0.015999999999999792,
+    "fee_adjusted_edge": -0.0492621200000002,
+    "annualized_return": -0.011563620961797054,
+    "exhaustiveness_verified": false,
+    "friction": null
+   },
+   {
+    "signal_id": 36,
+    "event_id": "KXNFLTEAMDPTS-LEAST27",
+    "title": "Will Arizona allow the fewest points scored?",
+    "side": "short",
+    "num_legs": 32,
+    "legs_quoted": 21,
+    "price_sum": 1.01,
+    "gross_edge": 0.010000000000000009,
+    "fee_adjusted_edge": -0.052237000000000006,
+    "annualized_return": -0.00735288733312965,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 28,
     "event_id": "KXLEADERNFLPTDS-27",
     "title": "Will Matthew Stafford lead Pro Football in Passing Touchdowns for the 2026-2027 Regular Season?",
     "side": "short",
@@ -3920,12 +1653,54 @@
     "price_sum": 1.0100000000000005,
     "gross_edge": 0.010000000000000453,
     "fee_adjusted_edge": -0.055204999999999546,
-    "annualized_return": -0.006063591247729276,
+    "annualized_return": -0.006079681168882767,
     "exhaustiveness_verified": null,
     "friction": null
    },
    {
-    "signal_id": 24314,
+    "signal_id": 13,
+    "event_id": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+    "title": "Will Republicans win the 2026 U.S. House of Representatives national popular vote?",
+    "side": "short",
+    "num_legs": 10,
+    "legs_quoted": 10,
+    "price_sum": 1.002,
+    "gross_edge": 0.0020000000000000018,
+    "fee_adjusted_edge": -0.056779,
+    "annualized_return": -0.00541124975329523,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 88,
+    "event_id": "KXMLB-26",
+    "title": "Will Seattle win the 2026 Pro Baseball Championship?",
+    "side": "short",
+    "num_legs": 30,
+    "legs_quoted": 21,
+    "price_sum": 1.0030000000000001,
+    "gross_edge": 0.0030000000000001137,
+    "fee_adjusted_edge": -0.05710206999999991,
+    "annualized_return": -0.017890050156364103,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 27,
+    "event_id": "KXRHOUSESEATS-27",
+    "title": "Will the Republican Party win 193 seats  in the 120th Congress?",
+    "side": "short",
+    "num_legs": 11,
+    "legs_quoted": 11,
+    "price_sum": 1.004,
+    "gross_edge": 0.0040000000000000036,
+    "fee_adjusted_edge": -0.057271140000000005,
+    "annualized_return": -0.013875134453042419,
+    "exhaustiveness_verified": null,
+    "friction": null
+   },
+   {
+    "signal_id": 34,
     "event_id": "KXNFLFFLEADER-27QB",
     "title": "Will Josh Allen be the #1 ranked fantasy QB in the 2026-27 Pro Football regular season?",
     "side": "short",
@@ -3933,8 +1708,8 @@
     "legs_quoted": 25,
     "price_sum": 1.0000000000000004,
     "gross_edge": 4.440892098500626e-16,
-    "fee_adjusted_edge": -0.06162799999999954,
-    "annualized_return": -0.006835421476366853,
+    "fee_adjusted_edge": -0.06148799999999954,
+    "annualized_return": -0.006839843398621771,
     "exhaustiveness_verified": null,
     "friction": null
    }
